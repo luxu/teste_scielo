@@ -1,0 +1,1702 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "http://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.1" specific-use="sps-1.9" article-type="research-article" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">aib</journal-id>
+      <journal-title-group>
+        <journal-title>Arquivos do Instituto Biológico</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Arq. Inst. Biol.</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0020-3653</issn>
+      <issn pub-type="epub">1808-1657</issn>
+      <publisher>
+        <publisher-name>Instituto Biológico</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id specific-use="scielo-v3" pub-id-type="publisher-id">NxWBM9hvfj4hgWbvB6GP8nF</article-id>
+      <article-id specific-use="scielo-v2" pub-id-type="publisher-id">S1808-16572022000100214</article-id>
+      <article-id pub-id-type="other">00214</article-id>
+      <article-id pub-id-type="doi">10.1590/1808-1657000052022</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>SCIENTIFIC ARTICLE</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Sumatran fleabane (<italic>Conyza sumatrensis</italic> [Retz.] E. Walker) control in soybean with combinations of burndown and preemergence herbicides applied in the off-season</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0003-3512-6597</contrib-id>
+          <name>
+            <surname>Albrecht</surname>
+            <given-names>Leandro Paiola</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role>
+          <role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <xref ref-type="aff" rid="aff01">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-8390-3381</contrib-id>
+          <name>
+            <surname>Albrecht</surname>
+            <given-names>Alfredo Junior Paiola</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+          <role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role>
+          <role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <xref ref-type="aff" rid="aff01">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-4846-8089</contrib-id>
+          <name>
+            <surname>Silva</surname>
+            <given-names>André Felipe Moreira</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+          <xref ref-type="aff" rid="aff02">2</xref>
+          <xref ref-type="corresp" rid="c01">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0003-0862-7863</contrib-id>
+          <name>
+            <surname>Silva</surname>
+            <given-names>Lucas Martins da</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <xref ref-type="aff" rid="aff01">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-0923-6699</contrib-id>
+          <name>
+            <surname>Neuberger</surname>
+            <given-names>Debora Cristine</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <xref ref-type="aff" rid="aff01">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0003-4543-2133</contrib-id>
+          <name>
+            <surname>Zanfrilli</surname>
+            <given-names>Gabriel</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <xref ref-type="aff" rid="aff01">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-5642-377X</contrib-id>
+          <name>
+            <surname>Antunes</surname>
+            <given-names>Vagner Maurício da Silva</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <xref ref-type="aff" rid="aff01">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff01">
+        <label>1</label>
+        <institution content-type="orgname">Universidade Federal do Paraná</institution>
+        <institution content-type="orgdiv1">Departamento de Ciências Agronômicas</institution>
+        <addr-line>
+          <named-content content-type="city">Palotina</named-content>
+          <named-content content-type="state">PR</named-content>
+        </addr-line>
+        <country country="BR">Brazil</country>
+        <institution content-type="original">Universidade Federal do Paraná – Departamento de Ciências Agronômicas – Palotina (PR), Brazil.</institution>
+      </aff>
+      <aff id="aff02">
+        <label>2</label>
+        <institution content-type="orgname">Crop Science Pesquisa e Consultoria Agronômica Ltda</institution>
+        <addr-line>
+          <named-content content-type="city">Maripá</named-content>
+          <named-content content-type="state">PR</named-content>
+        </addr-line>
+        <country country="BR">Brazil</country>
+        <institution content-type="original">Crop Science Pesquisa e Consultoria Agronômica Ltda. – Maripá (PR), Brazil.</institution>
+      </aff>
+      <author-notes>
+        <corresp id="c01"><label>*</label>Corresponding author: <email>afmoreirasilva@hotmail.com</email></corresp>
+        <fn fn-type="edited-by">
+          <p>Section Editor: Silvia Galleti</p>
+        </fn>
+        <fn fn-type="conflict">
+          <label>CONFLICTS OF INTEREST</label>
+          <p>All authors declare that they have no conflict of interest.</p>
+        </fn>
+      </author-notes>
+      <pub-date publication-format="electronic" date-type="pub">
+        <day>06</day>
+        <month>01</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date publication-format="electronic" date-type="collection">
+        <year>2022</year>
+      </pub-date>
+      <volume>89</volume>
+      <elocation-id>e00052022</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>03</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>10</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <title>ABSTRACT</title>
+        <p>Sumatran fleabane (<italic>Conyza sumatrensis</italic> [Retz.] E. Walker) can be found in many different agricultural environments and impact different crops, such as soybeans and corn. It is believed that the application of burndown and preemergence herbicides in the off-season are effective in controlling Sumatran fleabane in soybean crops. The objective was to evaluate the effectiveness of burndown and preemergence herbicides in the off-season, with one or two applications, in the control of Sumatran fleabane in soybean cultivation. Five field experiments were conducted in Maripá, state of Paraná (PR), Brazil. The treatments consisted of the application of burndown herbicides in combinations with preemergence ones, with one or two applications. Control of Sumatran fleabane and soybean yield were evaluated. With the set of experiments, it is highlighted that the strategy combining more applications, with different herbicides, burndown and preemergence, is more promising in the control of Sumatran fleabane. When comparing synthetic auxins, dicamba and triclopyr stand out. For sequential application, worse performance was observed for diquat. Combinations between burndown and preemergence herbicides were effective in controlling Sumatran fleabane, for pre sowing application in soybean. With emphasis on managements with sequential applications of saflufenacil with glufosinate or glyphosate. The strategy combining more applications, with different herbicides, burndown and preemergence herbicides, is more promising in the control of Sumatran fleabane.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>synthetic auxins</kwd>
+        <kwd>protoporphyrinogen oxidase inhibitors</kwd>
+        <kwd>herbicide mixtures</kwd>
+        <kwd>weeds</kwd>
+        <kwd>soybean yield</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Conselho Nacional de Desenvolvimento Científico e Tecnológico</funding-source>
+          <award-id>308202/2020-1</award-id>
+        </award-group>
+        <funding-statement>Conselho Nacional de Desenvolvimento Científico e Tecnológico https://doi.org/10.13039/501100003593 Grant No. 308202/2020-1</funding-statement>
+      </funding-group>
+      <counts>
+        <fig-count count="6"/>
+        <table-count count="5"/>
+        <equation-count count="0"/>
+        <ref-count count="30"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUCTION</title>
+      <p>Sumatran fleabane (<italic>Conyza sumatrensis</italic> [Retz.] E. Walker) is one of the main species of this genus. It has an annual life cycle, with high seed production, which can be easily dispersed to more than 500,000 m from the mother plant (<xref ref-type="bibr" rid="B25">SHIELDS et al., 2006</xref>). Thus, these plants can be found in many different agricultural environments and impact different crops, such as soybeans and maize (<xref ref-type="bibr" rid="B06">BAJWA et al., 2016</xref>). <xref ref-type="bibr" rid="B28">TREZZI et al. (2015)</xref> indicated that 2.7 <italic>C. bonariensis</italic> plants per square meter are enough to reduce soybean yield by 50%.</p>
+      <p>Another point to be highlighted are the cases of Sumatran fleabane with resistance to herbicides, with reports all over the world. In South America, cases in Brazil, Paraguay and Argentina stand out. There are reports of single and multiple resistance to several herbicides, especially glyphosate (5-enolpyruvylshikimate-3-phosphate synthase), chlorimuron and other acetolactate synthase inhibitors, paraquat (photosystem I inhibitors), dicamba (synthetic auxins) (<xref ref-type="bibr" rid="B23">SANTOS et al., 2014</xref>; <xref ref-type="bibr" rid="B18">PINHO et al., 2019</xref>; <xref ref-type="bibr" rid="B30">ZOBIOLE et al., 2019</xref>; <xref ref-type="bibr" rid="B03">ALBRECHT et al., 2020a</xref>,b; <xref ref-type="bibr" rid="B20">QUEIROZ et al., 2020</xref>).</p>
+      <p>Thus, it is necessary to use alternative herbicides, with preemergence activity and different mechanisms of action, for the effective control of Sumatran fleabane. Studies highlight the effectiveness of herbicides with preemergence action in controlling <italic>Conyza</italic> spp. in soybean, for example, flumioxazin (<xref ref-type="bibr" rid="B19">PITTMAN et al., 2019</xref>), diclosulam (<xref ref-type="bibr" rid="B16">KRENCHINSKI et al., 2019</xref>), diuron (<xref ref-type="bibr" rid="B22">SANTOS et al., 2015</xref>), sulfentrazone (<xref ref-type="bibr" rid="B01">ALBRECHT et al., 2021</xref>), imazethapyr (<xref ref-type="bibr" rid="B02">ALBRECHT et al., 2020c</xref>) among others.</p>
+      <p>In addition to the use of herbicides with preemergence action, for an effective management of <italic>Conyza</italic> spp. burndown herbicides should also be applied in situations where these weeds are present before sowing soybean. Among these herbicides, glufosinate stands out (<xref ref-type="bibr" rid="B02">ALBRECHT et al., 2020c</xref>; <xref ref-type="bibr" rid="B08">CANTU et al., 2021</xref>). Glyphosate can also be used, but with cases of resistance and consequent loss of effectiveness, it may be better to use it in post-emergence of soybean.</p>
+      <p>In this context, it is believed that the application of burndown and preemergence herbicides in the off-season are effective in controlling Sumatran fleabane in soybean crop. The objective of this study was to evaluate the effectiveness of burndown and preemergence herbicides in the off-season, with one or two applications, in the control of Sumatran fleabane in soybean cultivation.</p>
+    </sec>
+    <sec sec-type="materials|methods">
+      <title>MATERIAL AND METHODS</title>
+      <sec>
+        <title>Location description</title>
+        <p>Five experiments were carried out with herbicide applications for pre sowing burndown in soybean, located in Maripá, state of Paraná (PR), Brazil (exp. 1: 24°24’28.4”S 53°51’44.4”W; exp. 2: 24°24’28.3”S 53°51’45.5”W; exp. 3: 24°24’28.3”S 53°51’45.5”W; exp. 4: 24°24’29.1”S 53°51’45.3”W; exp. 5: 24°24’29”S 53°51’43.7”W). The climate in the region is Cfa—subtropical with summer rains and dry winters, according to the Köppen–Geiger classification, the meteorological conditions during the experiment are illustrated in <xref ref-type="fig" rid="f01">Fig. 1</xref>. The soil of the experimental area showed a very clayey texture (65.1% clay, 19.55% silt, and 15.35% sand), and with the following chemical characteristics (0–20 cm): pH (CaCl<sub>2</sub>) of 5.9; organic matter of 1.98% and cation exchange capacity of 19.13 cmol<sub>c</sub>·dm<sup>–3</sup>.</p>
+        <fig id="f01">
+          <label>Figure 1</label>
+          <caption>
+            <title>Rainfall, minimum (min) and maximum (max) temperature, during the experiments. Maripá, PR, Brazil, 2020–2021.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/ef0ac2c14618600e94bb76c8d2cf8155e3e270b8.tif"/>
+            <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/0da4fe70c647c281f4b395be7cd32be48f856574.png" specific-use="scielo-web"/>
+            <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/91ed0ed92265b9ded157c45130b12fcce032c9a7.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+          </alternatives>
+        </fig>
+      </sec>
+      <sec>
+        <title>Experimental design</title>
+        <p>Experiments 1 to 4 consisted of two herbicide applications, experiment 5 was composed of a single application. The first application in experiments 1 to 4 and the application in experiment 5 were made on August 24, 2020, under average temperature of 24 °C, relative humidity of 78% and wind speed of 1.7 km·h<sup>–1</sup>. The second application was made ten days after the first application, on September 3, 2020, under average temperature of 27 °C, relative humidity of 62% and wind speed of 2.2 km·h<sup>–1</sup>. For the applications, a CO<sub>2</sub> pressurized backpack sprayer was used, equipped with a 3-m-long application bar, with six XR 110 02 flat fan spray nozzles (Teejet), spaced 50 cm apart, bar height of 50 cm from the target, 2 BAR constant pressure, 0.45 L·min<sup>–1</sup> flow, and 1 m·s<sup>–1</sup> speed, thus providing a spray volume of 150 L·ha<sup>–1</sup>.</p>
+        <p>The area was infested with 19.7 plants·m<sup>–2</sup> of Sumatran fleabane, with more than 50% plants over 20 cm tall. The soil in the area had a large seed bank of Sumatran fleabane with new emergence flows after the first application. It should be noted that the area had a history and frequency of plants with resistance to 2,4-dichlorophenoxyacetic acid (2,4-D), paraquat and diquat.</p>
+        <p>Seven treatments were adopted for each experiment (<xref ref-type="table" rid="t01">Tables 1</xref> to <xref ref-type="table" rid="t05">5</xref>) and a randomized block design with four replications was used. The experimental units consisted of 5 × 3 m plots. For the evaluations, only the central area (5.4 m<sup>2</sup>) of each plot was considered.</p>
+        <table-wrap id="t01">
+          <label>Table 1</label>
+          <caption>
+            <title>Herbicide treatments in first application at pre sowing soybean burndown to control Sumatran fleabane (exp. 1).</title>
+          </caption>
+          <table frame="hsides" rules="rows" style="border-color:#00859E">
+            <thead>
+              <tr align="center" style="background-color:#DFECF0">
+                <th align="left">Treatments<xref ref-type="table-fn" rid="TFN01">1</xref></th>
+                <th align="left">Rate<xref ref-type="table-fn" rid="TFN02">2</xref> (g·ha<sup>–1)</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr align="center">
+                <td align="left">Nontreated control (without weeding)</td>
+                <td align="left">-</td>
+              </tr>
+              <tr align="center">
+                <td align="left">Nontreated control (with weeding)</td>
+                <td align="left">-</td>
+              </tr>
+              <tr align="center">
+                <td align="left">Glyphosate + metsulfuron</td>
+                <td align="left">1,500 + 7.2</td>
+              </tr>
+              <tr align="center">
+                <td align="left">Glyphosate + 2,4-D</td>
+                <td align="left">1,500 + 1,005</td>
+              </tr>
+              <tr align="center">
+                <td align="left">Glyphosate + chlorimuron + 2,4-D</td>
+                <td align="left">1,500 + 30 + 1,209</td>
+              </tr>
+              <tr align="center">
+                <td align="left">Glyphosate + dicamba</td>
+                <td align="left">1,500 + 288</td>
+              </tr>
+              <tr align="center">
+                <td align="left">Glyphosate + triclopyr</td>
+                <td align="left">1,500 + 720</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="TFN01">
+              <label>1</label>
+              <p>Commercial products: Zapp QI 620 (glyphosate), Ally (metsulfuron), Aminol 806 (2,4-D), Classic (chlorimuron), Atectra (dicamba), Triclon (triclopyr). Sequential application of glufosinate (400 g·ha<sup>–1</sup> of active ingredient [ai]), 10 days after the first application, except for the nontreated control.</p>
+            </fn>
+            <fn id="TFN02">
+              <label>2</label>
+              <p>Rates at acid equivalent (ae), except for metsulfuron and chlorimuron at ai.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap id="t02">
+          <label>Table 2</label>
+          <caption>
+            <title>Herbicide treatments in first application at presowing soybean burndown to control Sumatran fleabane (exp. 2).</title>
+          </caption>
+          <table frame="hsides" rules="rows" style="border-color:#00859E">
+            <thead>
+              <tr align="left" style="background-color:#DFECF0">
+                <th>Treatments<xref ref-type="table-fn" rid="TFN03">1</xref></th>
+                <th>Rate<xref ref-type="table-fn" rid="TFN04">2</xref> (g·ha<sup>–1)</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr align="left">
+                <td>Nontreated control (without weeding)</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Nontreated control (with weeding)</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Only sequential application</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Gly + dicamba + imazethapyr/flumioxazin</td>
+                <td>1,500 + 288 + 120/60</td>
+              </tr>
+              <tr align="left">
+                <td>Gly + dicamba + diclosulam</td>
+                <td>1,500 + 288 + 20.16</td>
+              </tr>
+              <tr align="left">
+                <td>Gly + dicamba + diclosulam</td>
+                <td>1,500 + 288 + 35.28</td>
+              </tr>
+              <tr align="left">
+                <td>Gly + dicamba + sulfentrazone/diuron</td>
+                <td>1,500 + 288 + 245/490</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="TFN03">
+              <label>1</label>
+              <p>Commercial products: Zapp QI 620 (gly: glyphosate), Atectra (dicamba), Zethamaxx (imazethapyr/flumioxazin), Spider 840 WG (diclosulam), Stone (sulfentrazone/diuron). Sequential application of glufosinate (400 g·ha<sup>–1</sup> of active ingredient [ai]), 10 days after the first application, except for the nontreated control.</p>
+            </fn>
+            <fn id="TFN04">
+              <label>2</label>
+              <p>Rates at acid equivalent (ae), except for flumioxazin, diclosulam, and sulfentrazone/diuron at ai.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap id="t03">
+          <label>Table 3</label>
+          <caption>
+            <title>Herbicide treatments in sequential application at presowing soybean burndown to control Sumatran fleabane (exp. 3).</title>
+          </caption>
+          <table frame="hsides" rules="rows" style="border-color:#00859E">
+            <thead>
+              <tr align="left" style="background-color:#DFECF0">
+                <th>Treatments<xref ref-type="table-fn" rid="TFN05">1</xref></th>
+                <th>Rate<xref ref-type="table-fn" rid="TFN06">2</xref> (g·ha<sup>–1)</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr align="left">
+                <td>Nontreated control (without weeding)</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Nontreated control (with weeding)</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Without sequential application</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate</td>
+                <td>400</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate + imazethapyr/flumioxazin</td>
+                <td>400 + 120/60</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate + diclosulam</td>
+                <td>400 + 20.16</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate + sulfentrazone/diuron</td>
+                <td>400 + 245/490</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="TFN05">
+              <label>1</label>
+              <p>Commercial products: Zapp QI 620 (gly: glyphosate), Atectra (dicamba), Zethamaxx (imazethapyr/flumioxazin), Spider 840 WG (diclosulam), Stone (sulfentrazone/diuron). First application of glyphosate + dicamba, 10 days before of second application, except for the nontreated control.</p>
+            </fn>
+            <fn id="TFN06">
+              <label>2</label>
+              <p>Rates at acid equivalent (ae), except for flumioxazin, diclosulam, and sulfentrazone/diuron at a.i.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap id="t04">
+          <label>Table 4</label>
+          <caption>
+            <title>Herbicide treatments in sequential application at pre sowing soybean burndown to control Sumatran fleabane (exp. 4).</title>
+          </caption>
+          <table frame="hsides" rules="rows" style="border-color:#00859E">
+            <thead>
+              <tr align="left" style="background-color:#DFECF0">
+                <th>Treatments<xref ref-type="table-fn" rid="TFN07">1</xref></th>
+                <th>Rate<xref ref-type="table-fn" rid="TFN08">2</xref> (g·ha<sup>–1)</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr align="left">
+                <td>Nontreated control (without weeding)</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Nontreated control (with weeding)</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Diquat</td>
+                <td>400</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate</td>
+                <td>400</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate</td>
+                <td>600</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate + saflufenacil</td>
+                <td>400 + 35</td>
+              </tr>
+              <tr align="left">
+                <td>Glyphosate + saflufenacil</td>
+                <td>1,240 + 35</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="TFN07">
+              <label>1</label>
+              <p>Commercial products: Reglone (diquat), Finale (glufosinate), Heat (saflufenacil), Zapp QI 620 (glyphosate). First application of glyphosate (1,500 g·ha<sup>–1</sup> of acid equivalent [ae]) + dicamba (Atectra: 288 g ae·ha<sup>–1</sup>), 10 days before of second application, except for the nontreated control.</p>
+            </fn>
+            <fn id="TFN08">
+              <label>2</label>
+              <p>Rates at ae for glyphosate, and at active ingredient (ai) for other herbicides</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <table-wrap id="t05">
+          <label>Table 5</label>
+          <caption>
+            <title>Herbicide treatments in pre sowing soybean burndown to control Sumatran fleabane (exp. 5).</title>
+          </caption>
+          <table frame="hsides" rules="rows" style="border-color:#00859E">
+            <thead>
+              <tr align="left" style="background-color:#DFECF0">
+                <th>Treatments<xref ref-type="table-fn" rid="TFN09">1</xref></th>
+                <th>Rate<xref ref-type="table-fn" rid="TFN10">2</xref> (g·ha<sup>–1)</sup></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr align="left">
+                <td>Nontreated control (without weeding)</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Nontreated control (with weeding)</td>
+                <td>-</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate</td>
+                <td>400</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate</td>
+                <td>600</td>
+              </tr>
+              <tr align="left">
+                <td>Glufosinate + saflufenacil</td>
+                <td>400 + 35</td>
+              </tr>
+              <tr align="left">
+                <td>Glyphosate + saflufenacil</td>
+                <td>1,000 + 35</td>
+              </tr>
+              <tr align="left">
+                <td>Glyphosate + saflufenacil + diclosulam</td>
+                <td>1,000 + 35 + 20.16</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="TFN09">
+              <label>1</label>
+              <p>Commercial products: Finale (glufosinate), Heat (saflufenacil), Zapp QI 620 (glyphosate), Spider 840 WG (diclosulam).</p>
+            </fn>
+            <fn id="TFN10">
+              <label>2</label>
+              <p>Rates at acid equivalent (ae) for glyphosate, and at active ingredient (ai) for other herbicides.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>On September 23, 2020, soybean cultivar ‘M 6210 IPRO’ was directly sown in rows 0.45 cm spaced apart, with 12 seeds·m<sup>–1</sup>, for all the experiments. In soybean postemergence, weed control was carried out by manual weeding, from 60 days after the first application (DAA) of herbicides, when the soybean was at the V6 stage (<xref ref-type="bibr" rid="B11">FEHR et al., 1971</xref>) in a total area, even in the controls.</p>
+      </sec>
+      <sec>
+        <title>Evaluations</title>
+        <p>Control evaluation of Sumatran fleabane was carried out at 21 and 42 DAA, scores were assigned by visual analysis of each experimental unit (0 for absence of injuries, up to 100% for plant death), considering, in this case, symptoms significantly visible in the plants, according to their development (<xref ref-type="bibr" rid="B29">VELINI et al., 1995</xref>). For soybean yield, the useful area of each plot was harvested, the weight of harvested grains was corrected to 13% moisture, with results expressed in kg·ha<sup>–1</sup>.</p>
+      </sec>
+      <sec>
+        <title>Statistical analysis</title>
+        <p>Data were tested by analysis of variance (ANOVA) using the F-test (p &lt; 0.05). Treatment means were grouped using Tukey’s test (p &lt; 0.05). For the analysis, the Sisvar 5.6 software (<xref ref-type="bibr" rid="B12">FERREIRA, 2011</xref>) was used.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTS</title>
+      <p>In experiment 1, the application of dicamba or triclopyr, in combination with glyphosate, showed better performance in the control of Sumatran fleabane, at 21 and 42 DAA. There was a final control of up to 78%, inferior only to the weeded control (100%). The effectiveness of herbicide treatments impacted soybean yield, with higher values for the most effective treatments (<xref ref-type="fig" rid="f02">Fig. 2</xref>).</p>
+      <fig id="f02">
+        <label>Figure 2</label>
+        <caption>
+          <title>Sumatran fleabane control at 21 and 42 days after first application (DAA), and soybean yield, of treatment herbicides in first application at pre sowing soybean burndown (exp. 1). Sequential application of glufosinate at 10 DAA, except for the except for the nontreated control. Gly: glyphosate. Bars, with same color and letter, do not differ each other by Tukey’s test, by 5% level.</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/5ae08766cbf40b2cc16158883bbb82d7fd9d5cdd.tif"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/4deef8a583cd645baef6069bd69db3d55568de26.png" specific-use="scielo-web"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/3717d7439684772979f188c217ab14383ad36fca.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+      <p>The application of glyphosate + dicamba, in combination with preemergence, was also effective in controlling Sumatran fleabane, in experiment 2, with emphasis on the combination with the highest rate of diclosulam. For soybean yield, no differences were detected between the weeded control and glyphosate + dicamba + preemergence, all superior to that observed for the application of glyphosate + dicamba (<xref ref-type="fig" rid="f03">Fig. 3</xref>). Similar results were observed in experiment 3, which evaluated the application of glyphosate + dicamba without sequential application of glufosinate, and had the worst performance among the herbicide treatments. For the others, it is highlighted that preemergence + glufosinate was effective in the control of Sumatran fleabane, with consistent results observed in soybean yield (<xref ref-type="fig" rid="f04">Fig. 4</xref>).</p>
+      <fig id="f03">
+        <label>Figure 3</label>
+        <caption>
+          <title>Sumatran fleabane control at 21 and 42 days after first application (DAA), and soybean yield, of treatment herbicides in first application at pre sowing soybean burndown (exp. 2). Sequential application of glufosinate, at 10 DAA, except for the nontreated control. Gly: glyphosate Bars, with same color and letter, do not differ each other by Tukey’s test (1949), by 5% level.</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/46ee20fb05e35186c164f05a3fc170228afbb333.tif"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/efeee6a1755eb8c023f83d046c0b1e963ec84c2f.png" specific-use="scielo-web"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/ca8f5efb342f1e95041fe8b1d1b9f90d9898dc1a.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+      <fig id="f04">
+        <label>Figure 4</label>
+        <caption>
+          <title>Sumatran fleabane control at 21 and 42 days after application (DAA), and soybean yield, of treatment herbicides in sequential application at pre sowing soybean burndown (exp. 3). First application of glyphosate + dicamba, 10 days before of second application, except for the nontreated control. Bars, with same color and letter, do not differ each other by Tukey’s test, by 5% level.</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/284f700356547cbb6c5066227564e3e369b2424d.tif"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/1ce66db3d243804c5582fa9d785cdf80249daae1.png" specific-use="scielo-web"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/9fc2a72d01da93031437929877018afc785fab9f.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+      <p>For experiment 4, the treatments varied according to the second application, glyphosate + dicamba was used in the first application in all herbicide treatments. In this sequence, when diquat was applied, a worse performance was observed in the control of Sumatran fleabane and in soybean yield. In this sense, the application of glufosinate is highlighted, especially at the highest rate (600 g·ha<sup>–1</sup>), or in combination with saflufenacil, in this case at the rate of 400 g·ha<sup>–1</sup> (<xref ref-type="fig" rid="f05">Fig. 5</xref>).</p>
+      <fig id="f05">
+        <label>Figure 5</label>
+        <caption>
+          <title>Sumatran fleabane control at 21 and 42 days after first application (DAA), and soybean yield, of treatment herbicides in sequential application at pre sowing soybean burndown (exp. 4). First application of glyphosate + dicamba, 10 days before of second application, except for the except for the nontreated control. Bars, with same color and letter, do not differ each other by Tukey’s test, by 5% level.</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/e35e002596d5b0de08d6ea9c334ff7ea191110bf.tif"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/64a5a37d122a49d1142131ba9bb0fed0ffba170e.png" specific-use="scielo-web"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/8a99d746125faf4e7f26e897c873e8d82133ab0d.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+      <p>In experiment 5, in a single application of herbicides, the efficacy of glufosinate + saflufenacil stands out, with 85% control at 21 DAA, however at 42 DAA, 52.5% control was observed, even though it was among the most effective treatments. Therefore, the productivity of all herbicide treatments was lower than that observed in the weeded control (<xref ref-type="fig" rid="f06">Fig. 6</xref>). These results reinforce the need for more interventions to control Sumatran fleabane in soybean, with the combination of burndown herbicides with preemergence ones.</p>
+      <fig id="f06">
+        <label>Figure 6</label>
+        <caption>
+          <title>Sumatran fleabane control at 21 and 42 days after application (DAA), and soybean yield, of treatment herbicides at pre sowing soybean burndown (exp. 5). Bars, with same color and letter, do not differ each other by Tukey’s test, by 5% level.</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/10d1e7459d7475f0741f980342299a1f0ff6c953.tif"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/2095b5b9c7a7932c9e26fc6205a1269ad6f51600.png" specific-use="scielo-web"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/237300cf6377fa4088064969898403584fa2fc3e.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSION</title>
+      <p>With the set of experiments, the strategy combining more applications, with different herbicides, burndown and preemergences, is more promising in the control of Sumatran fleabane. In the first application, when in combination with glyphosate + synthetic auxin, dicamba and triclopyr can be highlighted as partners of glyphosate. Other studies highlight dicamba (<xref ref-type="bibr" rid="B13">FLESSNER; PITTMAN, 2019</xref>; <xref ref-type="bibr" rid="B05">ASKEW et al., 2021</xref>) or triclopyr (<xref ref-type="bibr" rid="B08">CANTU et al., 2021</xref>), in different combinations, especially with burndown and preemergences herbicides. Also, dicamba and triclopyr can be used as an alternative to 2,4-D, which were superior in this study. Resistance to 2,4-D has been reported in southern Brazil, due to the rapid necrosis mechanism (<xref ref-type="bibr" rid="B18">PINHO et al., 2019</xref>; <xref ref-type="bibr" rid="B20">QUEIROZ et al., 2020</xref>), which helps to explain the results of this study.</p>
+      <p>Another important tool in the control of Sumatran fleabane is the use of preemergence herbicides, even in advance, with application 30 days before soybean sowing. preemergence herbicides increase the effectiveness of treatments, and should be applied for pre sowing soybean desiccation. The application of imazethapyr/flumioxazin, sulfentrazone/diuron or diclosulam was effective in different combinations. As already pointed out by other studies in different managements, especially those with more interventions, and with different mechanisms of action (<xref ref-type="bibr" rid="B26">SOLTANI et al., 2017</xref>; <xref ref-type="bibr" rid="B21">RIZZARDI et al., 2020</xref>; <xref ref-type="bibr" rid="B24">SCHRAMSKI et al., 2021</xref>).</p>
+      <p>Also, the importance of sequential application, with burndown herbicides, was demonstrated with these results. In particular, glufosinate proved to be effective when compared to diquat. The application of glufosinate is supported by other studies in different management situations of Sumatran fleabane (<xref ref-type="bibr" rid="B02">ALBRECHT et al., 2020c</xref>; <xref ref-type="bibr" rid="B09">CORREIA, 2020</xref>). The combination of glufosinate with saflufenacil was also effective in controlling the sequential application. This combination is important in the control of Sumatran fleabane and other weeds, widely used in pre sowing soybean, with studies even indicating a synergistic effect (<xref ref-type="bibr" rid="B14">JHALA et al., 2013</xref>; <xref ref-type="bibr" rid="B27">TAKANO et al., 2020</xref>).</p>
+      <p>Although with lower efficacy compared to glufosinate + saflufenacil, the combination glyphosate + saflufenacil was also promising in the control of Sumatran fleabane, superior to that observed for diquat. As well as, when in combination with glufosinate, also with glyphosate, saflufenacil is recommended in this modality of application, and a synergistic effect is observed in some situations in the control of <italic>Conyza</italic> spp. (<xref ref-type="bibr" rid="B10">DALAZEN et al., 2015</xref>; <xref ref-type="bibr" rid="B17">PIASECKI et al., 2020</xref>).</p>
+      <p>The importance of diversifying chemical control tactics, with better results for treatments combining more herbicides with different mechanisms of action, is reiterated. Rotation, herbicide combination and use of preemergence herbicides are very important in preventing the selection of resistant weed biotypes, as well as in their control (<xref ref-type="bibr" rid="B15">KNEZEVIC et al., 2019</xref>; <xref ref-type="bibr" rid="B07">BUSI et al., 2020</xref>).</p>
+      <p>Combinations between burndown and preemergence herbicides were effective in the control of Sumatran fleabane, for pre sowing application in soybean. With emphasis on managements with sequential applications of saflufenacil with glufosinate or glyphosate. It is highlighted that the strategy combining more applications, with different herbicides, burndown and preemergence, is more promising in the control of Sumatran fleabane.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>ACKNOWLEDGEMENTS</title>
+      <p>The authors acknowledge the support of the Supra Pesquisa team from the Federal University of Paraná (UFPR), and the Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq-Brazil) for granting scientific initiation scholarships to undergraduate students and productivity scholarship to the first author.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="other">
+        <p>Peer Review History: Double-blind Peer Review.</p>
+      </fn>
+      <fn fn-type="other">
+        <label>AVAILABILITY OF DATA AND MATERIAL</label>
+        <p>The datasets generated and/or analyzed during the current study are available from the corresponding author on reasonable request.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <label>FUNDING</label>
+        <p>Conselho Nacional de Desenvolvimento Científico e Tecnológico</p>
+        <p>
+          <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.13039/501100003593">https://doi.org/10.13039/501100003593</ext-link>
+        </p>
+        <p>Grant No. 308202/2020-1</p>
+      </fn>
+      <fn fn-type="other">
+        <label>ETHICAL APPROVAL</label>
+        <p>Not applicable.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="B01">
+        <mixed-citation>ALBRECHT, A.J.P.; ALBRECHT, L.P.; ALVES, S.N.R.; SILVA, A.F.M.; SILVA, W. de O.; LORENZETTI, J.B.; DANILUSSI, M.T.Y.; BARROSO, A.A.M. Pre-sowing application of combinations of burndown and pre-emergent herbicides for <italic>Conyza</italic> spp. control in soybean. <italic>Agronomía Colombiana</italic>, Bogotá, v.39, n.1, p.121-128, 2021. https://doi.org/10.15446/agron.colomb.v39n1.89545</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>L.P.</given-names>
+            </name>
+            <name>
+              <surname>ALVES</surname>
+              <given-names>S.N.R.</given-names>
+            </name>
+            <name>
+              <surname>SILVA</surname>
+              <given-names>A.F.M.</given-names>
+            </name>
+            <name>
+              <surname>SILVA</surname>
+              <given-names>W. de O.</given-names>
+            </name>
+            <name>
+              <surname>LORENZETTI</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>DANILUSSI</surname>
+              <given-names>M.T.Y.</given-names>
+            </name>
+            <name>
+              <surname>BARROSO</surname>
+              <given-names>A.A.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Pre-sowing application of combinations of burndown and pre-emergent herbicides for <italic>Conyza</italic> spp. control in soybean</article-title>
+          <source>Agronomía Colombiana</source>
+          <publisher-loc>Bogotá</publisher-loc>
+          <volume>39</volume>
+          <issue>1</issue>
+          <fpage>121</fpage>
+          <lpage>128</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.15446/agron.colomb.v39n1.89545</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B02">
+        <mixed-citation>ALBRECHT, A.J.P.; ALBRECHT, L.P.; SILVA, A.F.M.; RAMOS, R.A.; CORRÊA, N.B.; CARVALHO, M.G.; LORENZETTI, J.B.; DANILUSSI, M.T.Y. Control of <italic>Conyza</italic> spp. with sequential application of glufosinate in soybean pre-sowing. <italic>Ciência Rural</italic>, Santa Maria, v.50, n.9, e20190868, 2020c. https://doi.org/10.1590/0103-8478cr20190868</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>L.P.</given-names>
+            </name>
+            <name>
+              <surname>SILVA</surname>
+              <given-names>A.F.M.</given-names>
+            </name>
+            <name>
+              <surname>RAMOS</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>CORRÊA</surname>
+              <given-names>N.B.</given-names>
+            </name>
+            <name>
+              <surname>CARVALHO</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>LORENZETTI</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>DANILUSSI</surname>
+              <given-names>M.T.Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Control of <italic>Conyza</italic> spp. with sequential application of glufosinate in soybean pre-sowing</article-title>
+          <source>Ciência Rural</source>
+          <publisher-loc>Santa Maria</publisher-loc>
+          <volume>50</volume>
+          <issue>9</issue>
+          <elocation-id>e20190868</elocation-id>
+          <year>2020c</year>
+          <pub-id pub-id-type="doi">10.1590/0103-8478cr20190868</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B03">
+        <mixed-citation>ALBRECHT, A.J.P.; PEREIRA, V.G.C.; SOUZA, C.N.Z. de; ZOBIOLE, L.H.S.; ALBRECHT L.P.; ADEGAS, F.S. Multiple resistance of <italic>Conyza sumatrensis</italic> to three mechanisms of action of herbicides. <italic>Acta Scientiarum. Agronomy</italic>, Maringá, v.42, e42485, 2020a. https://doi.org/10.4025/actasciagron.v42i1.42485</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>PEREIRA</surname>
+              <given-names>V.G.C.</given-names>
+            </name>
+            <name>
+              <surname>SOUZA</surname>
+              <given-names>C.N.Z. de</given-names>
+            </name>
+            <name>
+              <surname>ZOBIOLE</surname>
+              <given-names>L.H.S.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT L.P.</surname>
+            </name>
+            <name>
+              <surname>ADEGAS</surname>
+              <given-names>F.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Multiple resistance of <italic>Conyza sumatrensis</italic> to three mechanisms of action of herbicides</article-title>
+          <source>Acta Scientiarum. Agronomy</source>
+          <publisher-loc>Maringá</publisher-loc>
+          <volume>42</volume>
+          <elocation-id>e42485</elocation-id>
+          <year>2020a</year>
+          <pub-id pub-id-type="doi">10.4025/actasciagron.v42i1.42485</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B04">
+        <mixed-citation>ALBRECHT, A.J.P.; THOMAZINI, G.; ALBRECHT, L.P.; PIRES, A.; LORENZETTI, J.B.; DANILUSSI, M.T.Y.; SILVA, A.F.M.; ADEGAS, F.S. <italic>Conyza sumatrensis</italic> resistant to paraquat, glyphosate and chlorimuron: confirmation and monitoring the first case of multiple resistance in Paraguay. <italic>Agriculture</italic>, Basel, v.10, n.12, 582, 2020b. https://doi.org/10.3390/agriculture10120582</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>THOMAZINI</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>L.P.</given-names>
+            </name>
+            <name>
+              <surname>PIRES</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>LORENZETTI</surname>
+              <given-names>J.B.</given-names>
+            </name>
+            <name>
+              <surname>DANILUSSI</surname>
+              <given-names>M.T.Y.</given-names>
+            </name>
+            <name>
+              <surname>SILVA</surname>
+              <given-names>A.F.M.</given-names>
+            </name>
+            <name>
+              <surname>ADEGAS</surname>
+              <given-names>F.S.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Conyza sumatrensis</italic> resistant to paraquat, glyphosate and chlorimuron: confirmation and monitoring the first case of multiple resistance in Paraguay</article-title>
+          <source>Agriculture</source>
+          <publisher-loc>Basel</publisher-loc>
+          <volume>10</volume>
+          <issue>12</issue>
+          <fpage>582</fpage>
+          <lpage>582</lpage>
+          <year>2020b</year>
+          <pub-id pub-id-type="doi">10.3390/agriculture10120582</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B05">
+        <mixed-citation>ASKEW, M.C.; CAHOON JR., C.W.; YORK, A.C.; FLESSNER, M.L.; LANGSTON JR., D.B., FEREBEE IV, J.H. Comparison of 2,4-D, dicamba and halauxifen-methyl alone or in combination with glyphosate for preplant weed control. <italic>Weed Technology</italic>, Cambridge, v.35, n.1, p.93-98, 2021. https://doi.org/10.1017/wet.2020.83</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ASKEW</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>CAHOON</surname>
+              <given-names>C.W.</given-names>
+              <suffix>JR</suffix>
+            </name>
+            <name>
+              <surname>YORK</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>FLESSNER</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>LANGSTON JR</surname>
+              <given-names>D.B.</given-names>
+              <suffix>JR</suffix>
+            </name>
+            <name>
+              <surname>FEREBEE IV</surname>
+              <given-names>J.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of 2,4-D, dicamba and halauxifen-methyl alone or in combination with glyphosate for preplant weed control</article-title>
+          <source>Weed Technology</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>35</volume>
+          <issue>1</issue>
+          <fpage>93</fpage>
+          <lpage>98</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1017/wet.2020.83</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B06">
+        <mixed-citation>BAJWA, A.A.; SADIA, S.; ALI, H.H.; JABRAN, K.; PEERZADA, A.M.; CHAUHAN, B.S.; Biology and management of two important <italic>Conyza</italic> weeds: A global review. <italic>Environmental Science and Pollution Research</italic>, Berlin, v.23, n.24, p.24694-24710, 2016. https://doi.org/10.1007/s11356-016-7794-7</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>BAJWA</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>SADIA</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>ALI</surname>
+              <given-names>H.H.</given-names>
+            </name>
+            <name>
+              <surname>JABRAN</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>PEERZADA</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>CHAUHAN</surname>
+              <given-names>B.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Biology and management of two important <italic>Conyza</italic> weeds: A global review</article-title>
+          <source>Environmental Science and Pollution Research</source>
+          <publisher-loc>Berlin</publisher-loc>
+          <volume>23</volume>
+          <issue>24</issue>
+          <fpage>24694</fpage>
+          <lpage>24710</lpage>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1007/s11356-016-7794-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B07">
+        <mixed-citation>BUSI, R.; POWLES, S.B.; BECKIE, H.J.; RENTON, M. Rotations and mixtures of soil‐applied herbicides delay resistance. <italic>Pest Management Science</italic>, London, v.76, n.2, p.487-496, 2020. https://doi.org/10.1002/ps.5534</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>BUSI</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>POWLES</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>BECKIE</surname>
+              <given-names>H.J.</given-names>
+            </name>
+            <name>
+              <surname>RENTON</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rotations and mixtures of soil‐applied herbicides delay resistance</article-title>
+          <source>Pest Management Science</source>
+          <publisher-loc>London</publisher-loc>
+          <volume>76</volume>
+          <issue>2</issue>
+          <fpage>487</fpage>
+          <lpage>496</lpage>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1002/ps.5534</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B08">
+        <mixed-citation>CANTU, R.M.; ALBRECHT, L.P.; ALBRECHT, A.J.P.; SILVA, A.F.M.; DANILUSSI, M.T.Y.; LORENZETTI, J.B. Herbicide alternative for <italic>Conyza sumatrensis</italic> control in pre-planting in no-till soybeans. <italic>Advances in Weed Science</italic>, Londrina, v.39, e2021000025, 2021. https://doi.org/10.51694/AdvWeedSci/2021;39:000012</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>CANTU</surname>
+              <given-names>R.M.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>L.P.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>SILVA</surname>
+              <given-names>A.F.M.</given-names>
+            </name>
+            <name>
+              <surname>DANILUSSI</surname>
+              <given-names>M.T.Y.</given-names>
+            </name>
+            <name>
+              <surname>LORENZETTI</surname>
+              <given-names>J.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Herbicide alternative for <italic>Conyza sumatrensis</italic> control in pre-planting in no-till soybeans</article-title>
+          <source>Advances in Weed Science</source>
+          <publisher-loc>Londrina</publisher-loc>
+          <volume>39</volume>
+          <elocation-id>e2021000025</elocation-id>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.51694/AdvWeedSci/2021;39:000012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B09">
+        <mixed-citation>CORREIA, N.M. Management and development of fleabane plants in central Brazil. <italic>Planta Daninha</italic>, Viçosa, v.38, e020238215. 2020. https://doi.org/10.1590/S0100-83582020380100084</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>CORREIA</surname>
+              <given-names>N.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Management and development of fleabane plants in central Brazil</article-title>
+          <source>Planta Daninha</source>
+          <publisher-loc>Viçosa</publisher-loc>
+          <volume>38</volume>
+          <elocation-id>e020238215</elocation-id>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1590/S0100-83582020380100084</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation>DALAZEN, G.; KRUSE, N.D.; MACHADO, S.L.O.; BALBINOT, A. Synergism of the glyphosate and saflufenacil combination for controlling hairy fleabane. <italic>Pesquisa Agropecuária Tropical</italic>, Goiânia, v.45, p.249-256, 2015. https://doi.org/10.1590/1983-40632015v4533708</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DALAZEN</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>KRUSE</surname>
+              <given-names>N.D.</given-names>
+            </name>
+            <name>
+              <surname>MACHADO</surname>
+              <given-names>S.L.O.</given-names>
+            </name>
+            <name>
+              <surname>BALBINOT</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Synergism of the glyphosate and saflufenacil combination for controlling hairy fleabane</article-title>
+          <source>Pesquisa Agropecuária Tropical</source>
+          <publisher-loc>Goiânia</publisher-loc>
+          <volume>45</volume>
+          <fpage>249</fpage>
+          <lpage>256</lpage>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1590/1983-40632015v4533708</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation>FEHR, W.R.; CAVINESS, C.E.; BURMOOD, D.T.; PENNINGTON, J.S. Stage of development descriptions for soybeans, <italic>Glycine max</italic> (L.) Merrill. <italic>Crop Science</italic>, v.11, n.6, p.929-931, 1971. https://doi.org/10.2135/cropsci1971.0011183X001100060051x</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>FEHR</surname>
+              <given-names>W.R.</given-names>
+            </name>
+            <name>
+              <surname>CAVINESS</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>BURMOOD</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>PENNINGTON</surname>
+              <given-names>J.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stage of development descriptions for soybeans, <italic>Glycine max</italic> (L.) Merrill</article-title>
+          <source>Crop Science</source>
+          <volume>11</volume>
+          <issue>6</issue>
+          <fpage>929</fpage>
+          <lpage>931</lpage>
+          <year>1971</year>
+          <pub-id pub-id-type="doi">10.2135/cropsci1971.0011183X001100060051x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation>FERREIRA, D.F. Sisvar: A computer statistical analysis system. <italic>Ciência e Agrotecnologia</italic>, Lavras, v.35, n.6, p.1039-1042, 2011. https://doi.org/10.1590/S1413-70542011000600001</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>FERREIRA</surname>
+              <given-names>D.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sisvar: A computer statistical analysis system</article-title>
+          <source>Ciência e Agrotecnologia</source>
+          <publisher-loc>Lavras</publisher-loc>
+          <volume>35</volume>
+          <issue>6</issue>
+          <fpage>1039</fpage>
+          <lpage>1042</lpage>
+          <year>2011</year>
+          <pub-id pub-id-type="doi">10.1590/S1413-70542011000600001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation>FLESSNER, M.L.; PITTMAN, K.B. Horseweed control with preplant herbicides after mechanical injury from small grain harvest. <italic>Agronomy Journal</italic>, Madison, v.111, n.6, p.3274-3280, 2019. https://doi.org/10.2134/agronj2019.03.0174</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>FLESSNER</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>PITTMAN</surname>
+              <given-names>K.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Horseweed control with preplant herbicides after mechanical injury from small grain harvest</article-title>
+          <source>Agronomy Journal</source>
+          <publisher-loc>Madison</publisher-loc>
+          <volume>111</volume>
+          <issue>6</issue>
+          <fpage>3274</fpage>
+          <lpage>3280</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.2134/agronj2019.03.0174</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation>JHALA, A.J.; RAMIREZ, A.H.M.; SINGH, M. Tank mixing saflufenacil, glufosinate, and indaziflam improved burndown and residual weed control. <italic>Weed Technology</italic>, Cambridge, v.27, n.2, p.422-429, 2013. https://doi.org/10.1614/WT-D-12-00141.1</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>JHALA</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <name>
+              <surname>RAMIREZ</surname>
+              <given-names>A.H.M.</given-names>
+            </name>
+            <name>
+              <surname>SINGH</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Tank mixing saflufenacil, glufosinate, and indaziflam improved burndown and residual weed control</article-title>
+          <source>Weed Technology</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>27</volume>
+          <issue>2</issue>
+          <fpage>422</fpage>
+          <lpage>429</lpage>
+          <year>2013</year>
+          <pub-id pub-id-type="doi">10.1614/WT-D-12-00141.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation>KNEZEVIC, S.Z.; PAVLOVIC, P.; OSIPITAN, O.A.; BARNES, E.R.; BEIERMANN, C.; OLIVEIRA, M.C.; LAWRENCE, N.; SCOTT, J.E.; JHALA, A. Critical time for weed removal in glyphosate-resistant soybean as influenced by preemergence herbicides. <italic>Weed Technology</italic>, Cambridge, v.33, n.3, p.393-399, 2019. https://doi.org/10.1017/wet.2019.18</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>KNEZEVIC</surname>
+              <given-names>S.Z.</given-names>
+            </name>
+            <name>
+              <surname>PAVLOVIC</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>OSIPITAN</surname>
+              <given-names>O.A.</given-names>
+            </name>
+            <name>
+              <surname>BARNES</surname>
+              <given-names>E.R.</given-names>
+            </name>
+            <name>
+              <surname>BEIERMANN</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>OLIVEIRA</surname>
+              <given-names>M.C.</given-names>
+            </name>
+            <name>
+              <surname>LAWRENCE</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>SCOTT</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>JHALA</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Critical time for weed removal in glyphosate-resistant soybean as influenced by preemergence herbicides</article-title>
+          <source>Weed Technology</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>33</volume>
+          <issue>3</issue>
+          <fpage>393</fpage>
+          <lpage>399</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1017/wet.2019.18</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation>KRENCHINSKI, F.H.; PEREIRA, V.G.C.; ZOBIOLE, L.H.S.; ALBRECHT, A.J.P.; ALBRECHT, L.P.; PETERSON, M. Halauxifen-methyl + diclosulam: new option to control <italic>Conyza</italic> spp. prior soybean sowing. <italic>Planta Daninha</italic>, Viçosa, v.37, e019189000, 2019. https://doi.org/10.1590/S0100-83582019370100059</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>KRENCHINSKI</surname>
+              <given-names>F.H.</given-names>
+            </name>
+            <name>
+              <surname>PEREIRA</surname>
+              <given-names>V.G.C.</given-names>
+            </name>
+            <name>
+              <surname>ZOBIOLE</surname>
+              <given-names>L.H.S.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>L.P.</given-names>
+            </name>
+            <name>
+              <surname>PETERSON</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Halauxifen-methyl + diclosulam: new option to control <italic>Conyza</italic> spp. prior soybean sowing</article-title>
+          <source>Planta Daninha</source>
+          <publisher-loc>Viçosa</publisher-loc>
+          <volume>37</volume>
+          <elocation-id>e019189000</elocation-id>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1590/S0100-83582019370100059</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation>PIASECKI, C.; CARVALHO, I.R.; AVILA, L.A.; AGOSTINETTO, D.; VARGAS, L. Glyphosate and saflufenacil: Elucidating their combined action on the control of glyphosate-resistant <italic>Conyza bonariensis</italic>. <italic>Agriculture</italic>, Basel, v.10, n.6, 236, 2020. https://doi.org/10.3390/agriculture10060236</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>PIASECKI</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>CARVALHO</surname>
+              <given-names>I.R.</given-names>
+            </name>
+            <name>
+              <surname>AVILA</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>AGOSTINETTO</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>VARGAS</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Glyphosate and saflufenacil: Elucidating their combined action on the control of glyphosate-resistant <italic>Conyza bonariensis</italic></article-title>
+          <source>Agriculture</source>
+          <publisher-loc>Basel</publisher-loc>
+          <volume>10</volume>
+          <issue>6</issue>
+          <fpage>236</fpage>
+          <lpage>236</lpage>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.3390/agriculture10060236</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation>PINHO, C.F.; LEAL, J.F.L.; SOUZA, A. S.; OLIVEIRA, G.F.P.B.; OLIVEIRA, C.; LANGARO, A.C.; MACHADO, A.F.L.; CHRISTOFFOLETI, P.J.; ZOBIOLE, L.H.S. First evidence of multiple resistance of Sumatran fleabane (<italic>Conyza sumatrensis</italic> (Retz.) E. Walker) to five-mode-of-action herbicides. <italic>Australian Journal of Crop Science</italic>, v.13, n.10, p.1688-1697, 2019. https://doi.org/10.21475/ajcs.19.13.10.p1981</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>PINHO</surname>
+              <given-names>C.F.</given-names>
+            </name>
+            <name>
+              <surname>LEAL</surname>
+              <given-names>J.F.L.</given-names>
+            </name>
+            <name>
+              <surname>SOUZA</surname>
+              <given-names>A. S.</given-names>
+            </name>
+            <name>
+              <surname>OLIVEIRA</surname>
+              <given-names>G.F.P.B.</given-names>
+            </name>
+            <name>
+              <surname>OLIVEIRA</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>LANGARO</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>MACHADO</surname>
+              <given-names>A.F.L.</given-names>
+            </name>
+            <name>
+              <surname>CHRISTOFFOLETI</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>ZOBIOLE</surname>
+              <given-names>L.H.S.</given-names>
+            </name>
+          </person-group>
+          <article-title>First evidence of multiple resistance of Sumatran fleabane (<italic>Conyza sumatrensis</italic> (Retz.) E. Walker) to five-mode-of-action herbicides</article-title>
+          <source>Australian Journal of Crop Science</source>
+          <volume>13</volume>
+          <issue>10</issue>
+          <fpage>1688</fpage>
+          <lpage>1697</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.21475/ajcs.19.13.10.p1981</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation>PITTMAN, K.B.; BARNEY, J.N.; FLESSNER, M.L. Horseweed (<italic>Conyza canadensis</italic>) suppression from cover crop mixtures and fall-applied residual herbicides. <italic>Weed Technology</italic>, Cambridge, v.33, n.2, p.303-311, 2019. https://doi.org/10.1017/wet.2018.111</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>PITTMAN</surname>
+              <given-names>K.B.</given-names>
+            </name>
+            <name>
+              <surname>BARNEY</surname>
+              <given-names>J.N.</given-names>
+            </name>
+            <name>
+              <surname>FLESSNER</surname>
+              <given-names>M.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Horseweed (<italic>Conyza canadensis</italic>) suppression from cover crop mixtures and fall-applied residual herbicides</article-title>
+          <source>Weed Technology</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>33</volume>
+          <issue>2</issue>
+          <fpage>303</fpage>
+          <lpage>311</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1017/wet.2018.111</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation>QUEIROZ, A.R. de; DELATORRE, C.A.; LUCIO, F.R.; ROSSI, C.V.S.; ZOBIOLE, L.H.S.; MEROTTO JR, A. Rapid necrosis: A novel plant resistance mechanism to 2,4-D. <italic>Weed Science</italic>, Cambridge, v.68, n.1, p.6-18, 2020. https://doi.org/10.1017/wsc.2019.65</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>QUEIROZ</surname>
+              <given-names>A.R. de</given-names>
+            </name>
+            <name>
+              <surname>DELATORRE</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>LUCIO</surname>
+              <given-names>F.R.</given-names>
+            </name>
+            <name>
+              <surname>ROSSI</surname>
+              <given-names>C.V.S.</given-names>
+            </name>
+            <name>
+              <surname>ZOBIOLE</surname>
+              <given-names>L.H.S.</given-names>
+            </name>
+            <name>
+              <surname>MEROTTO</surname>
+              <given-names>A.</given-names>
+              <suffix>JR</suffix>
+            </name>
+          </person-group>
+          <article-title>Rapid necrosis: A novel plant resistance mechanism to 2,4-D</article-title>
+          <source>Weed Science</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>68</volume>
+          <issue>1</issue>
+          <fpage>6</fpage>
+          <lpage>18</lpage>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1017/wsc.2019.65</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation>RIZZARDI, M.A.; ROCKENBACH, A.P.; SCHNEIDER, T. Residual herbicides increase the period prior to interference in soybean cultivars. <italic>Planta Daninha</italic>, Viçosa, v.38, e020222194, 2020. https://doi.org/10.1590/S0100-83582020380100091</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>RIZZARDI</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>ROCKENBACH</surname>
+              <given-names>A.P.</given-names>
+            </name>
+            <name>
+              <surname>SCHNEIDER</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Residual herbicides increase the period prior to interference in soybean cultivars</article-title>
+          <source>Planta Daninha</source>
+          <publisher-loc>Viçosa</publisher-loc>
+          <volume>38</volume>
+          <elocation-id>e020222194</elocation-id>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1590/S0100-83582020380100091</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation>SANTOS, F.M.; VARGAS, L.; CHRISTOFFOLETI, P.J.; MARTIN, T.N.; MARIANI, F., SILVA, D.R.O. Alternative herbicides to control <italic>Conyza sumatrensis</italic> (Retz.) E. H. Walker resistant to and EPSPs inhibitors. <italic>Revista Ceres</italic>, Viçosa, v.62, n.6, p.531-538, 2015. https://doi.org/10.1590/0034-737X201562060004</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SANTOS</surname>
+              <given-names>F.M.</given-names>
+            </name>
+            <name>
+              <surname>VARGAS</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>CHRISTOFFOLETI</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>MARTIN</surname>
+              <given-names>T.N.</given-names>
+            </name>
+            <name>
+              <surname>MARIANI</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>SILVA</surname>
+              <given-names>D.R.O.</given-names>
+            </name>
+          </person-group>
+          <article-title>Alternative herbicides to control <italic>Conyza sumatrensis</italic> (Retz.) E. H. Walker resistant to and EPSPs inhibitors</article-title>
+          <source>Revista Ceres</source>
+          <publisher-loc>Viçosa</publisher-loc>
+          <volume>62</volume>
+          <issue>6</issue>
+          <fpage>531</fpage>
+          <lpage>538</lpage>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1590/0034-737X201562060004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation>SANTOS, G.; OLIVEIRA JR., R.S.; CONSTANTIN, J.; FRANCISCHINI, A.C.; MACHADO, M.F.P.S.; MANGOLIN, C.A.; NAKAJIMA, J.N. <italic>Conyza sumatrensis</italic>: A new weed species resistant to glyphosate in the Americas. <italic>Weed Biology and Management</italic>, 14, v.2, p.106-114, 2014. https://doi.org/10.1111/wbm.12037</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SANTOS</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>OLIVEIRA JR</surname>
+            </name>
+            <name>
+              <surname>R.S.</surname>
+            </name>
+            <name>
+              <surname>CONSTANTIN</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>FRANCISCHINI</surname>
+              <given-names>A.C.</given-names>
+            </name>
+            <name>
+              <surname>MACHADO</surname>
+              <given-names>M.F.P.S.</given-names>
+            </name>
+            <name>
+              <surname>MANGOLIN</surname>
+              <given-names>C.A.</given-names>
+            </name>
+            <name>
+              <surname>NAKAJIMA</surname>
+              <given-names>J.N.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Conyza sumatrensis</italic>: A new weed species resistant to glyphosate in the Americas</article-title>
+          <source>Weed Biology and Management</source>
+          <volume>14</volume>
+          <issue>2</issue>
+          <fpage>106</fpage>
+          <lpage>114</lpage>
+          <year>2014</year>
+          <pub-id pub-id-type="doi">10.1111/wbm.12037</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <mixed-citation>SCHRAMSKI, J.A.; SPRAGUE, C.L.; RENNER, K.A. Integrating fall-planted cereal cover crops and preplant herbicides for glyphosate-resistant horseweed (<italic>Conyza canadensis</italic>) management in soybean. <italic>Weed Technology</italic>, Cambridge, v.35, n.2, p.234-241. 2021. https://doi.org/10.1017/wet.2020.117</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SCHRAMSKI</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>SPRAGUE</surname>
+              <given-names>C.L.</given-names>
+            </name>
+            <name>
+              <surname>RENNER</surname>
+              <given-names>K.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Integrating fall-planted cereal cover crops and preplant herbicides for glyphosate-resistant horseweed (<italic>Conyza canadensis</italic>) management in soybean</article-title>
+          <source>Weed Technology</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>35</volume>
+          <issue>2</issue>
+          <fpage>234</fpage>
+          <lpage>241</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1017/wet.2020.117</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <mixed-citation>SHIELDS, E.J.; DAUER, J.T.; VANGESSEL, M.J.; NEUMANN, G. Horseweed (<italic>Conyza canadensis</italic>) seed collected in the planetary boundary layer. <italic>Weed Science</italic>, Cambridge, v.54, n.6, p.1063-1067, 2006. https://doi.org/10.1614/WS-06-097R1.1</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SHIELDS</surname>
+              <given-names>E.J.</given-names>
+            </name>
+            <name>
+              <surname>DAUER</surname>
+              <given-names>J.T.</given-names>
+            </name>
+            <name>
+              <surname>VANGESSEL</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>NEUMANN</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Horseweed (<italic>Conyza canadensis</italic>) seed collected in the planetary boundary layer</article-title>
+          <source>Weed Science</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>54</volume>
+          <issue>6</issue>
+          <fpage>1063</fpage>
+          <lpage>1067</lpage>
+          <year>2006</year>
+          <pub-id pub-id-type="doi">10.1614/WS-06-097R1.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <mixed-citation>SOLTANI, N.; BROWN, L.R.; SIKKEMA, P.H. Control of glyphosate-resistant Canada fleabane in soybean with preplant herbicides. <italic>Canadian Journal of Plant Science</italic>, Ottawa, v.97, n.3, p.408-410, 2017. https://doi.org/10.1139/cjps-2016-0299</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SOLTANI</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>BROWN</surname>
+              <given-names>L.R.</given-names>
+            </name>
+            <name>
+              <surname>SIKKEMA</surname>
+              <given-names>P.H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Control of glyphosate-resistant Canada fleabane in soybean with preplant herbicides</article-title>
+          <source>Canadian Journal of Plant Science</source>
+          <publisher-loc>Ottawa</publisher-loc>
+          <volume>97</volume>
+          <issue>3</issue>
+          <fpage>408</fpage>
+          <lpage>410</lpage>
+          <year>2017</year>
+          <pub-id pub-id-type="doi">10.1139/cjps-2016-0299</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <mixed-citation>TAKANO, H.K.; BEFFA, R.; PRESTON, C.; WESTRA, P.; DAYAN, F.E. Glufosinate enhances the activity of protoporphyrinogen oxidase inhibitors. <italic>Weed Science</italic>, Cambridge, v.68, n.4, p.324-332, 2020. https://doi.org/10.1017/wsc.2020.39</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>TAKANO</surname>
+              <given-names>H.K.</given-names>
+            </name>
+            <name>
+              <surname>BEFFA</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>PRESTON</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>WESTRA</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>DAYAN</surname>
+              <given-names>F.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Glufosinate enhances the activity of protoporphyrinogen oxidase inhibitors</article-title>
+          <source>Weed Science</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <volume>68</volume>
+          <issue>4</issue>
+          <fpage>324</fpage>
+          <lpage>332</lpage>
+          <year>2020</year>
+          <pub-id pub-id-type="doi">10.1017/wsc.2020.39</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <mixed-citation>TREZZI, M.M.; VIDAL, R.A.; PATEL, F.; MIOTTO JR., E.; DEBASTIANI, F.; BALBINOT JR., A.A.; MOSQUEN, R. Impact of <italic>Conyza bonariensis</italic> density and establishment period on soyabean grain yield, yield components and economic threshold. <italic>Weed Research</italic>, v.55, n.1, p.34-41, 2015. https://doi.org/10.1111/wre.12125</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>TREZZI</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>VIDAL</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>PATEL</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>MIOTTO JR</surname>
+            </name>
+            <name>
+              <surname>E.</surname>
+            </name>
+            <name>
+              <surname>DEBASTIANI</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>BALBINOT JR</surname>
+            </name>
+            <name>
+              <surname>A.A.</surname>
+            </name>
+            <name>
+              <surname>MOSQUEN</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact of <italic>Conyza bonariensis</italic> density and establishment period on soyabean grain yield, yield components and economic threshold</article-title>
+          <source>Weed Research</source>
+          <volume>55</volume>
+          <issue>1</issue>
+          <fpage>34</fpage>
+          <lpage>41</lpage>
+          <year>2015</year>
+          <pub-id pub-id-type="doi">10.1111/wre.12125</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <mixed-citation>VELINI, E.D.; OSIPE, R.; GAZZIERO, D.L.P. <italic>Procedimentos para instalação, avaliação e análise de experimentos com herbicidas</italic>. Londrina: Sociedade Brasileira da Ciência das Plantas Daninhas, 1995.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>VELINI</surname>
+              <given-names>E.D.</given-names>
+            </name>
+            <name>
+              <surname>OSIPE</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>GAZZIERO</surname>
+              <given-names>D.L.P.</given-names>
+            </name>
+          </person-group>
+          <source>Procedimentos para instalação, avaliação e análise de experimentos com herbicidas</source>
+          <publisher-loc>Londrina</publisher-loc>
+          <publisher-name>Sociedade Brasileira da Ciência das Plantas Daninhas</publisher-name>
+          <year>1995</year>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <mixed-citation>ZOBIOLE, L.H.S.; PEREIRA, V.G.C.; ALBRECHT, A.J.P.; RUBIN, R.S.; ADEGAS, F.S.; ALBRECHT, L.P. Paraquat resistance of Sumatran fleabane (<italic>Conyza sumatrensis</italic>). <italic>Planta Daninha</italic>, Viçosa, v.37, e019183264, 2019. https://doi.org/10.1590/S0100-83582019370100018</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>ZOBIOLE</surname>
+              <given-names>L.H.S.</given-names>
+            </name>
+            <name>
+              <surname>PEREIRA</surname>
+              <given-names>V.G.C.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>A.J.P.</given-names>
+            </name>
+            <name>
+              <surname>RUBIN</surname>
+              <given-names>R.S.</given-names>
+            </name>
+            <name>
+              <surname>ADEGAS</surname>
+              <given-names>F.S.</given-names>
+            </name>
+            <name>
+              <surname>ALBRECHT</surname>
+              <given-names>L.P.</given-names>
+            </name>
+          </person-group>
+          <article-title>Paraquat resistance of Sumatran fleabane (<italic>Conyza sumatrensis</italic>)</article-title>
+          <source>Planta Daninha</source>
+          <publisher-loc>Viçosa</publisher-loc>
+          <volume>37</volume>
+          <elocation-id>e019183264</elocation-id>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1590/S0100-83582019370100018</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

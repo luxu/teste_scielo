@@ -1,0 +1,808 @@
+
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="case-report" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">acrep</journal-id>
+      <journal-title-group>
+        <journal-title>Autopsy and Case Reports</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Autops. Case Rep.</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2236-1960</issn>
+      <publisher>
+        <publisher-name>Hospital Universitário da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id specific-use="scielo-v3" pub-id-type="publisher-id">gz78jdCsDfNBHbbGzHSHzGC</article-id>
+      <article-id specific-use="scielo-v2" pub-id-type="publisher-id">S2236-19602023000100700</article-id>
+      <article-id pub-id-type="publisher-id">acrep126422</article-id>
+      <article-id pub-id-type="other">00700</article-id>
+      <article-id pub-id-type="doi">10.4322/acr.2021.413</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Clinical Case Report</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Intraoral lipoma with degenerative changes mimicking atypical lipomatous tumor: an immunohistochemical study</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0001-9883-9776</contrib-id>
+          <name>
+            <surname>Silva</surname>
+            <given-names>Evânio Vilela</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff01">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff02">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-6724-3504</contrib-id>
+          <name>
+            <surname>Silveira</surname>
+            <given-names>Heitor Albergoni</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff01">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff02">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0001-8722-7897</contrib-id>
+          <name>
+            <surname>Panucci</surname>
+            <given-names>Beatriz Zamboni Martins</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff02">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-7290-8451</contrib-id>
+          <name>
+            <surname>Molena</surname>
+            <given-names>Kelly Fernanda</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff02">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0001-5403-4052</contrib-id>
+          <name>
+            <surname>Almeida</surname>
+            <given-names>Luciana Yamamoto</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff01">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-6714-6253</contrib-id>
+          <name>
+            <surname>Bufalino</surname>
+            <given-names>Andreia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff01">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-9668-5870</contrib-id>
+          <name>
+            <surname>León</surname>
+            <given-names>Jorge Esquiche</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff02">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <aff id="aff01">
+          <label>1</label>
+          <institution content-type="orgname">Universidade Estadual Paulista</institution>
+          <institution content-type="orgdiv1">Araraquara Dental School</institution>
+          <institution content-type="orgdiv2">Oral Medicine</institution>
+          <addr-line>
+            <named-content content-type="city">Araraquara</named-content>
+            <named-content content-type="state">SP</named-content>
+          </addr-line>
+          <country country="BR">Brasil</country>
+          <institution content-type="original">Universidade Estadual Paulista (Unesp), Araraquara Dental School, Oral Medicine, Department of Diagnosis and Surgery, Araraquara, SP, Brasil</institution>
+        </aff>
+        <aff id="aff02">
+          <label>2</label>
+          <institution content-type="orgname">Universidade de São Paulo</institution>
+          <institution content-type="orgdiv1">Ribeirão Preto Dental School</institution>
+          <institution content-type="orgdiv2">Oral Pathology</institution>
+          <addr-line>
+            <named-content content-type="city">Ribeirão Preto</named-content>
+            <named-content content-type="state">SP</named-content>
+          </addr-line>
+          <country country="BR">Brasil</country>
+          <institution content-type="original">Universidade de São Paulo (USP), Ribeirão Preto Dental School, Oral Pathology, Department of Stomatology, Public Oral Health, and Forensic Dentistry, Ribeirão Preto, SP, Brasil</institution>
+        </aff>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="con">
+          <p><bold>Authors’ contributions:</bold> Evânio Vilela Silva, Beatriz Zamboni Martins Panucci and Kelly Fernanda Molena contributed to the clinical and microscopic analyses and the review of the literature. Heitor Albergoni Silveira and Luciana Yamamoto Almeida contributed with the immunohistochemical analysis and the manuscript writing. Andreia Bufalino and Jorge Esquiche León, contributed to the manuscript design, final data analyses and critical review.</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>Conflict of interest: All authors declare that they have no conflict of interest.</p>
+        </fn>
+        <corresp id="c01"><bold>Correspondence</bold> Jorge Esquiche León Universidade de São Paulo (USP), Ribeirão Preto Dental School, Oral Pathology, Department of Stomatology, Public Oral Health, and Forensic Dentistry Av. Café, s/n, CEP 14040-904, Ribeirão Preto, SP, Brasil Phone: +55 (16) 3315-4063; Fax: +55 (16) 3315-4102 <email>jleon@forp.usp.br</email> </corresp>
+      </author-notes>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>06</day>
+        <month>01</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date date-type="collection" publication-format="electronic">
+        <year>2023</year>
+      </pub-date>
+      <volume>13</volume>
+      <elocation-id>e2021413</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>01</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>23</day>
+          <month>11</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright © 2023 The Authors.</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>The Authors.</copyright-holder>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <title>ABSTRACT</title>
+        <p>Lipomas are mesenchymal neoplasms relatively uncommon in the oral cavity. Lipomas can exhibit histopathological features mimicking atypical lipomatous tumors (ALT) or dysplastic lipoma (DL) in the presence of degenerative changes. Relevantly, immunohistochemistry assists in the correct diagnosis. Herein, we present the case of a 54-year-old male with a sessile nodule located on the dorsum of the tongue. The histopathological analysis showed a diffuse, non-circumscribed adipocytic proliferation constituted by cells of variable size containing cytoplasmic vacuoles and displaced nuclei, some resembling lipoblasts supported by fibrous connective tissue stroma. By immunohistochemistry, tumor cells were positive for vimentin, S100, FASN, CD10, and p16. Rb expression was intact. Moreover, CD34, p53, MDM2, and CDK4 were negative. After 2-year of follow-up, no alteration or recurrence was observed. In conclusion, MDM2, CDK4, p53, and Rb immunomarkers can be used reliably to differentiate benign lipoma with degenerative changes from ALT and DL.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords </title>
+        <kwd>Lipoma</kwd>
+        <kwd>Liposarcoma</kwd>
+        <kwd>Mouth</kwd>
+        <kwd>Immunohistochemistry</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>FAPESP</funding-source>
+        </award-group>
+        <award-group>
+          <funding-source>CAPES</funding-source>
+          <award-id>001</award-id>
+        </award-group>
+        <funding-statement> Financial support: J.E.L. (2016/11419‐0), H.A.S. (2018/12734‐2), A.B. (2017/01438-0), K.F.M. (2017/23999-4) and L.Y.A. (2016/02713‐2) have received research grant from State of São Paulo Research Foundation (FAPESP). This study was partly sponsored by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001 (E.V.S.). </funding-statement>
+      </funding-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="0"/>
+        <equation-count count="0"/>
+        <ref-count count="16"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUCTION</title>
+      <p>Lipomas are benign mesenchymal neoplasms composed of mature adipocyte cells, relatively uncommon in the oral cavity, representing approximately 4.4% of all benign oral soft tissue tumors. Clinically, lipomas are usually soft, well-circumscribed, mobile, slow growing, and asymptomatic.<xref ref-type="bibr" rid="B001"><sup>1</sup></xref> In the oral cavity, the buccal mucosa is the most common site, followed by the tongue and lips. Gender preference is variable, affecting patients more frequently between the sixth and seventh decades of life.<xref ref-type="bibr" rid="B002"><sup>2</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B003"><sup>3</sup></xref> Microscopically, lipomas can be classified as classic lipoma, fibrolipoma, angiolipoma, intramuscular lipoma, chondroid lipoma, sialolipoma, and spindle cell lipoma.<xref ref-type="bibr" rid="B004"><sup>4</sup></xref> However, in sites prone to trauma, such as the oral cavity, lipoma with reactive/degenerative changes may occur. Some of the lipomas with these changes mimic atypical lipomatous tumors (ALT) or dysplastic lipomas (DL), causing difficulty in reaching an accurate diagnosis.<xref ref-type="bibr" rid="B005"><sup>5</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B007"><sup>7</sup></xref> With an apparent predilection for the oral cavity, lipoma with reactive/degenerative changes shows a proliferation of adipocytes of variable size, reactive nuclear atypia, vacuolated histiocytes supported by a fibrous stroma, and fat necrosis.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref> To date, about 17 cases of intraoral lipoma with degenerative changes have been reported.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref> All these cases were assessed with MDM2 and CDK4 immunomarkers, with 14 cases being negative and 3 showing weak expression.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref> Moreover, in a study published 18 years ago, 8 out of 125 lipomas of the oral and maxillofacial region probably correspond to lipoma with degenerative changes.<xref ref-type="bibr" rid="B005"><sup>5</sup></xref> </p>
+    </sec>
+    <sec sec-type="cases">
+      <title>CASE REPORT</title>
+      <p>A 54-year-old man was referred for evaluation of a nodular lesion on the dorsal surface of the tongue that evolved over several years. The medical history was noncontributory. Intraoral examination revealed a sessile nodule, similar in color to the adjacent normal-appearing oral mucosa, measuring approximately 1.2 × 1.0 × 0.4 cm, located on the dorsal region of the tongue (<xref ref-type="fig" rid="gf01">Figure 1A</xref>). An irregular tissue-defined depression or fissures, slightly erythematous on the dorsal tongue’s midline, was also observed and was considered an atypical presentation of median rhomboid glossitis. This lesion improved after cleaning and topical antifungal therapy. The clinical differential diagnosis for the nodular lesion included granular cell tumor, neurofibroma, schwannoma, ectomesenchymal chondromyxoid tumor and lipoma. After total tumor exeresis, the histological examination depicted a diffuse, non-circumscribed adipocytic proliferation by cells of variable size and displaced atypical nuclei in its deepest part, and ring-like cells, Lochkern cells and vacuolated cells, some of them resembling lipoblasts, in the superficial part. These cells were supported by connective tissue stroma containing histiocytes (<xref ref-type="fig" rid="gf01">Figures 1B</xref> to <xref ref-type="fig" rid="gf01">1F</xref>). Immunohistochemistry revealed positivity for vimentin, S100, FASN, CD10 and p16, whereas CD34, p53, MDM2 and CDK4 were negative (<xref ref-type="fig" rid="gf02">Figures 2</xref> and <xref ref-type="fig" rid="gf03">3</xref>). Rb expression was intact, and Ki-67 highlighted isolated tumor cells (<xref ref-type="fig" rid="gf04">Figure 4</xref>). Moreover, HLA-DR, CD68, CD163, and Factor XIIIA evidenced stromal histiocytes. The histopathological and immunohistochemical findings were consistent with lipoma with reactive/degenerative changes. After 2-year of follow-up, there was no alteration or recurrence.</p>
+      <fig fig-type="figure" id="gf01" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <title><bold>A -</bold> Clinical presentation of the lesion showing a sessile nodule located on dorsal region of the tongue (arrow); <bold>B to F -</bold> Photomicrographs of the surgical specimen with: <bold>B</bold> and <bold>C</bold> - diffuse, non-circumscribed adipocytic proliferation with variable cell size (H&amp;E, B x4; C x10); <bold>D -</bold> note variably sized adipocytes supported by scarce fibrous stroma, mimicking dysplastic lipoma (H&amp;E; x40); <bold>E -</bold> At the periphery, ring-like cells and vacuolated cells with displaced, slightly hyperchromatic nuclei, some of them with lipoblast-like features, were visualized (H&amp;E, x40); <bold>F -</bold> Close-up view highlighting cellular details. Note uni- or multivacuolated lipoblast-like cells and nuclei with sharply outlined vacuoles, notably Lochkern change (arrow) (H&amp;E, x100).</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/2236-1960/gz78jdCsDfNBHbbGzHSHzGC/f4190e5de3e635cbb5a3b60711440943e4b60eb8.jpg"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/2236-1960/gz78jdCsDfNBHbbGzHSHzGC/9a6880c051433f12a47048d144567ccc8e2409a6.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+      <fig fig-type="figure" id="gf02" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <title>Photomicrographs of the surgical specimen. Immunohistochemical analysis with: <bold>A -</bold> positivity for S100 (x40); <bold>B -</bold> CD34 highlighted the stromal vessels (x40); <bold>C -</bold> FASN evidenced adipocytes varying in size and shape (x40); <bold>D -</bold> negative reaction to MDM2 (x40).</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/2236-1960/gz78jdCsDfNBHbbGzHSHzGC/7579e556acad518b2c05defc04b8933c6dc51588.jpg"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/2236-1960/gz78jdCsDfNBHbbGzHSHzGC/e1e6938a5a3056b7b25f85af60f56dd114a14f7f.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+      <fig fig-type="figure" id="gf03" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <title>Photomicrographs of the surgical specimen. Immunohistochemical analysis with <bold>A -</bold> Tumor cells were negative to CDK4 (x40), excluding the possibility of ALT; <bold>B -</bold> Rb expression was intact (x40); <bold>C -</bold> CD10 and p16 expression were positive, including the stromal cells (x40); <bold>D -</bold> CD68 and CD163 evidenced numerous stromal histiocytes (x40).</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/2236-1960/gz78jdCsDfNBHbbGzHSHzGC/06b4458c6914e4df44bfb0a0d442cf016041a951.jpg"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/2236-1960/gz78jdCsDfNBHbbGzHSHzGC/4aca68aa721334bb577303f994233b941c05d8f5.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+      <fig fig-type="figure" id="gf04" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <title>Photomicrograph of the surgical specimen. Rare tumor cells were Ki-67 positive (x10).</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/2236-1960/gz78jdCsDfNBHbbGzHSHzGC/05a99e9030fa227b4456074865a58ce91fcef444.jpg"/>
+          <graphic xlink:href="https://minio.scielo.br/documentstore/2236-1960/gz78jdCsDfNBHbbGzHSHzGC/5670126567f79266f7d9c2abe985be4777d9867a.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSION</title>
+      <p>Benign lipomas are the most common mesenchymal tumors of soft tissue. However, lipomas are relatively uncommon in the oral and maxillofacial regions. In the oral cavity, lipomas may affect various anatomical sites, including the buccal mucosa, tongue, lip, palate, and floor of the mouth.<xref ref-type="bibr" rid="B001"><sup>1</sup></xref> Some studies indicate that oral lipomas at areas prone to trauma may display degenerative changes<xref ref-type="bibr" rid="B005"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B006"><sup>6</sup></xref> microscopically characterized by variability in adipocyte size, reactive nuclear atypia, fibrosis, increased stromal histiocytes, and fat necrosis, which promote diagnostic pitfalls mimicking ALT or DL.<xref ref-type="bibr" rid="B005"><sup>5</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B007"><sup>7</sup></xref> </p>
+      <p>About 17 cases of intraoral lipoma with degenerative changes have been reported, all of them initially misdiagnosed as ALT.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref> Most cases revealed a proliferation of adipocytes of varying size, with displaced nucleus resembling atypia, vacuolated histiocytes mimicking lipoblasts, degenerate adipocytes, Lochkern cells, and the presence of mild spindle cell proliferation in a fibrous stroma with focal myxoid degeneration. The affected sites were the tongue, lip, and alveolar mucosa, often prone to trauma. These cases were reevaluated by immunohistochemical reactions to MDM2 and CDK4, nuclear markers, which positivity strongly supports the diagnosis of ALT/well-differentiated liposarcoma (WDL).<xref ref-type="bibr" rid="B006"><sup>6</sup></xref> The results showed negativity for MDM2 and CDK4 in 14 out of 17 cases, whereas 3 cases showed weak expression of MDM2 and CDK4. By fluorescence in situ hybridization (FISH) analysis for MDM2 amplification, all these 3 cases were negative.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref> Moreover, histiocytic markers, similar to our case, highlighted vacuolated histiocytes, helping the diagnosis. In the Furlong et al.<xref ref-type="bibr" rid="B005"><sup>5</sup></xref> study, although an immunohistochemical survey was not carried out, the morphological characteristics in 8 out of 125 cases suggested the possibility of lipoma with degenerative changes.</p>
+      <p>The ALT/WDL is the most common type of liposarcoma (40-45% of all liposarcomas), usually affecting the retroperitoneum and thighs of middle-aged adults, being rare in the oral cavity.<xref ref-type="bibr" rid="B008"><sup>8</sup></xref> It is important to mention that the terminology “ALT” and “WDL” is based on a tumor's location and primarily relate to resectability. For tumors located in the periphery, such as the oral cavity, complete resection is generally curative, without risk of metastasis, for which “ALT” is preferred. On the other hand, “WDL” is more appropriate for deep-seated tumors, such as the retroperitoneum and mediastinum, where the positive margins, local recurrence and dedifferentiation are significantly increased.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B008"><sup>8</sup></xref> </p>
+      <p>To date, 73 cases of intraoral ALT/WDL have been reported, slightly predominant in women with a mean age of 55. The most common oral location was the tongue (38 cases), followed by the lip, floor of the mouth, gingiva, and palate. Most of these cases appeared as a circumscribed, indolent, asymptomatic, firm, or elastic submucosal mass. The mean size of the tumor was 2.5 cm, with a mean duration of 30 months. Recurrence was reported in 9 cases, with no metastases or deaths.<xref ref-type="bibr" rid="B005"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B008"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B009"><sup>9</sup></xref> </p>
+      <p>Histologically ALT/WDL are characterized by presenting mature fat with variably sized adipocytes and spindle cells with enlarged, hyperchromatic nuclei located between adipocytes and/or within dense fibrous septa and in a perivascular distribution. However, these classic features are not always present, and, as such, without the help of immunohistochemistry, ALT/WDL may not be properly diagnosed.<xref ref-type="bibr" rid="B008"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B010"><sup>10</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B012"><sup>12</sup></xref> The differential diagnosis of ALT/WDL includes intramuscular lipoma, spindle cell lipoma, pleomorphic lipoma, chondroid lipoma, lipoma with fat necrosis and/or Lochkern cells, and atrophy of fat.<xref ref-type="bibr" rid="B008"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B009"><sup>9</sup></xref> Relevantly, only 6 out of 73 intraoral cases of ALT/WDL reported additional analysis of MDM2 and/or CDK4,<xref ref-type="bibr" rid="B010"><sup>10</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B012"><sup>12</sup></xref> which should be considered for diagnosis. Thus, it should not be surprising if some of these cases represent benign lipoma with reactive/degenerative changes. For the correct diagnosis of ALT/WDL, the MDM2 and CDK4 immunomarkers, and MDM2 amplification assessed by FISH, have been used to increase the diagnostic accuracy.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B009"><sup>9</sup></xref> Notably, the nuclear overexpression of MDM2 and CDK4 in ALT/WDL results from the 12q13-15 chromosomal amplification in ring or giant marker chromosomes. Benign lipoma may have various cytogenetic findings, including 12q13-15 rearrangement targeting HMGA2, 13q deletion, or 6p21-23 rearrangement but does not overexpress MDM2/CDK4.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref> An interesting study focusing on immunoexpression of MDM2/CDK4 in ATL/WDL and benign lipomatous lesions<xref ref-type="bibr" rid="B013"><sup>13</sup></xref> showed that MDM2 and CDK4 were detected in 25/56 and 23/56 ALT/WDL, respectively, corresponding to a sensitivity of 45% and 41% and a specificity of 98% and 92%. In contrast, in benign lipomatous lesions MDM2 and CDK4 expression occurred in 2/125 and 10/117 cases, respectively.<xref ref-type="bibr" rid="B013"><sup>13</sup></xref> In the current case, a positive expression of vimentin, S100, CD10, and FASN highlighted their mesenchymal and fatty nature. While p16 expression was initially proposed as a successful diagnostic marker with selective expression in malignant adipocytic tumors, it has been recognized that p16 can be detected in both benign and malignant adipocytic tumors, as observed in the current case.<xref ref-type="bibr" rid="B014"><sup>14</sup></xref> </p>
+      <p>The DL, a recently described fatty tumor, has a distinctive morphology independent of the anatomic site. This tumor shows male predilection, mainly affecting the neck and back. No case involving the oral cavity has been reported to date.<xref ref-type="bibr" rid="B007"><sup>7</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B015"><sup>15</sup></xref> Morphologically, DL tends to form well-demarcated subcutaneous masses with striking adipocytic size variation and patchy single-cell fat necrosis. Spindle stromal cells and collagenous matrix tend to be scant or absent. Adipocytes with one or more atypical nuclei are always present, but they may be sparse and difficult to depict at low magnification. On close inspection, the atypical adipocytes have nuclei variably enlarged with coarsened chromatin, small nucleoli, and frequently, focal Lochkern change.<xref ref-type="bibr" rid="B006"><sup>6</sup></xref> In these cases, p53 overexpression, loss of Rb expression, including RB1 gene abnormalities, low MDM2 reactivity, and lack of MDM2 gene amplification by FISH, are observed in most tumor cells.<xref ref-type="bibr" rid="B007"><sup>7</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B015"><sup>15</sup></xref> The current case presented DL-like microscopical features in the deepest part of the lesion; however, focal areas presented mild adipocytic size variation. Moreover, p53 was negative, and the expression of Rb was intact.</p>
+      <p>It should be noted that benign symmetrical lipomatosis (BSL), a rare disorder characterized by diffuse, multiple symmetric, and non-encapsulated fat tissue masses, often affecting the face, neck, and upper trunk can also manifest intraoral involvement. Approximately 8 cases of BSL with lingual involvement have been reported.<xref ref-type="bibr" rid="B016"><sup>16</sup></xref> Unlike lipoma with reactive/degenerative changes, these cases present a homogeneous proliferation in shape and size of adipocytes, with an indistinct margin between the adipose tissue and skeletal muscle, which makes the surgical resection troublesome with a relatively high rate of recurrence or regrowth.<xref ref-type="bibr" rid="B016"><sup>16</sup></xref> </p>
+      <p>The treatment of choice for benign lipoma is conservative surgery, and recurrences are infrequent.<xref ref-type="bibr" rid="B001"><sup>1</sup></xref> Similarly, for DL, simple local excision is recommended; however, recurrences can occur in about 4% of the cases.<xref ref-type="bibr" rid="B007"><sup>7</sup></xref> For ALT, the optimal treatment is wide surgical excision with free margins, with the risk of recurrence or metastasis being very low or absent; notwithstanding, continuous and rigorous monitoring is necessary.<xref ref-type="bibr" rid="B008"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B010"><sup>10</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B012"><sup>12</sup></xref> In this context, it is important to distinguish lipoma with reactive/degenerative changes from ALT and DL.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="other">
+        <p><bold>How to cite:</bold> Silva EV, Silveira HA, Panucci BZM, et al. Intraoral lipoma with degenerative changes mimicking atypical lipomatous tumor: an immunohistochemical study. Autops Case Rep [Internet]. 2023;13:e2021413. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4322/acr.2021.413">https://doi.org/10.4322/acr.2021.413</ext-link> </p>
+      </fn>
+      <fn fn-type="other">
+        <p>This study carried out jointly between the São Paulo State University (UNESP), School of Dentistry, Araraquara, São Paulo, Brazil and Ribeirão Preto Dental School (FORP/USP), University of São Paulo, Ribeirão Preto, SP, Brasil.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>Ethics statement:</bold> All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. Informed consent was obtained from the patient authorizing the data publication.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>Financial support: J.E.L. (2016/11419‐0), H.A.S. (2018/12734‐2), A.B. (2017/01438-0), K.F.M. (2017/23999-4) and L.Y.A. (2016/02713‐2) have received research grant from State of São Paulo Research Foundation (FAPESP). This study was partly sponsored by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001 (E.V.S.).</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="B001">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Studart-Soares</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Costa</surname>
+              <given-names>FWG</given-names>
+            </name>
+            <name>
+              <surname>Sousa</surname>
+              <given-names>FB</given-names>
+            </name>
+            <name>
+              <surname>Alves</surname>
+              <given-names>APNN</given-names>
+            </name>
+            <name>
+              <surname>Osterne</surname>
+              <given-names>RLV</given-names>
+            </name>
+          </person-group>
+          <article-title>Oral lipomas in a Brazilian population: a 10-year study and analysis of 450 cases reported in the literature</article-title>
+          <source>Med Oral Patol Oral Cir Bucal</source>
+          <year>2010</year>
+          <volume>15</volume>
+          <issue>5</issue>
+          <fpage>e691</fpage>
+          <lpage>6</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4317/medoral.15.e691">http://dx.doi.org/10.4317/medoral.15.e691</ext-link>
+          <pub-id pub-id-type="pmid">20383107.</pub-id>
+        </element-citation>
+        <mixed-citation>1 Studart-Soares EC, Costa FWG, Sousa FB, Alves APNN, Osterne RLV. Oral lipomas in a Brazilian population: a 10-year study and analysis of 450 cases reported in the literature. Med Oral Patol Oral Cir Bucal. 2010;15(5):e691-6. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4317/medoral.15.e691">http://dx.doi.org/10.4317/medoral.15.e691</ext-link>. PMid:20383107.</mixed-citation>
+      </ref>
+      <ref id="B002">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manor</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sion-Vardy</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Joshua</surname>
+              <given-names>BZ</given-names>
+            </name>
+            <name>
+              <surname>Bodner</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Oral lipoma: analysis of 58 new cases and review of the literature</article-title>
+          <source>Ann Diagn Pathol</source>
+          <year>2011</year>
+          <volume>15</volume>
+          <issue>4</issue>
+          <fpage>257</fpage>
+          <lpage>261</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.anndiagpath.2011.01.003">http://dx.doi.org/10.1016/j.anndiagpath.2011.01.003</ext-link>
+          <pub-id pub-id-type="pmid">21447447.</pub-id>
+        </element-citation>
+        <mixed-citation>2 Manor E, Sion-Vardy N, Joshua BZ, Bodner L. Oral lipoma: analysis of 58 new cases and review of the literature. Ann Diagn Pathol. 2011;15(4):257-61. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.anndiagpath.2011.01.003">http://dx.doi.org/10.1016/j.anndiagpath.2011.01.003</ext-link>. PMid:21447447.</mixed-citation>
+      </ref>
+      <ref id="B003">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Santos</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Ocamoto</surname>
+              <given-names>EA</given-names>
+            </name>
+            <name>
+              <surname>Almeida</surname>
+              <given-names>LY</given-names>
+            </name>
+            <name>
+              <surname>Teixeira</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Ribeiro-Silva</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>León</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title>Low-fat plexiform spindle cell lipoma with prominent myxoid stroma: an unusual oral presentation and immunohistochemical analysis</article-title>
+          <source>J Craniofac Surg</source>
+          <year>2017</year>
+          <volume>28</volume>
+          <issue>2</issue>
+          <fpage>e158</fpage>
+          <lpage>60</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/SCS.0000000000003348">http://dx.doi.org/10.1097/SCS.0000000000003348</ext-link>
+          <pub-id pub-id-type="pmid">28045832.</pub-id>
+        </element-citation>
+        <mixed-citation>3 Santos JL, Ocamoto EA, Almeida LY, Teixeira LR, Ribeiro-Silva A, León JE. Low-fat plexiform spindle cell lipoma with prominent myxoid stroma: an unusual oral presentation and immunohistochemical analysis. J Craniofac Surg. 2017;28(2):e158-60. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/SCS.0000000000003348">http://dx.doi.org/10.1097/SCS.0000000000003348</ext-link>. PMid:28045832.</mixed-citation>
+      </ref>
+      <ref id="B004">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rocha</surname>
+              <given-names>AFL</given-names>
+            </name>
+            <name>
+              <surname>Miotto</surname>
+              <given-names>LN</given-names>
+            </name>
+            <name>
+              <surname>Ferrisse</surname>
+              <given-names>TM</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Low-fat and fat-free spindle cell lipomas in the oral cavity: immunohistochemical analysis and review of the literature</article-title>
+          <source>J Cutan Pathol</source>
+          <year>2019</year>
+          <volume>46</volume>
+          <issue>10</issue>
+          <fpage>778</fpage>
+          <lpage>783</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/cup.13512">http://dx.doi.org/10.1111/cup.13512</ext-link>
+          <pub-id pub-id-type="pmid">31115930.</pub-id>
+        </element-citation>
+        <mixed-citation>4 Rocha AFL, Miotto LN, Ferrisse TM, et al. Low-fat and fat-free spindle cell lipomas in the oral cavity: immunohistochemical analysis and review of the literature. J Cutan Pathol. 2019;46(10):778-83. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/cup.13512">http://dx.doi.org/10.1111/cup.13512</ext-link>. PMid:31115930.</mixed-citation>
+      </ref>
+      <ref id="B005">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furlong</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Fanburg-Smith</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Childers</surname>
+              <given-names>EL</given-names>
+            </name>
+          </person-group>
+          <article-title>Lipoma of the oral and maxillofacial region: site and subclassification of 125 cases</article-title>
+          <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+          <year>2004</year>
+          <volume>98</volume>
+          <issue>4</issue>
+          <fpage>441</fpage>
+          <lpage>450</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.tripleo.2004.02.071">http://dx.doi.org/10.1016/j.tripleo.2004.02.071</ext-link>
+          <pub-id pub-id-type="pmid">15472660.</pub-id>
+        </element-citation>
+        <mixed-citation>5 Furlong MA, Fanburg-Smith JC, Childers EL. Lipoma of the oral and maxillofacial region: site and subclassification of 125 cases. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2004;98(4):441-50. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.tripleo.2004.02.071">http://dx.doi.org/10.1016/j.tripleo.2004.02.071</ext-link>. PMid:15472660.</mixed-citation>
+      </ref>
+      <ref id="B006">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stojanov</surname>
+              <given-names>IJ</given-names>
+            </name>
+            <name>
+              <surname>Mariño-Enriquez</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bahri</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Jo</surname>
+              <given-names>VY</given-names>
+            </name>
+            <name>
+              <surname>Woo</surname>
+              <given-names>SB</given-names>
+            </name>
+          </person-group>
+          <article-title>Lipomas of the oral cavity: utility of MDM2 and CDK4 in avoiding overdiagnosis as atypical lipomatous tumor</article-title>
+          <source>Head Neck Pathol</source>
+          <year>2019</year>
+          <volume>13</volume>
+          <issue>2</issue>
+          <fpage>169</fpage>
+          <lpage>176</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s12105-018-0928-0">http://dx.doi.org/10.1007/s12105-018-0928-0</ext-link>
+          <pub-id pub-id-type="pmid">29748845.</pub-id>
+        </element-citation>
+        <mixed-citation>6 Stojanov IJ, Mariño-Enriquez A, Bahri N, Jo VY, Woo SB. Lipomas of the oral cavity: utility of MDM2 and CDK4 in avoiding overdiagnosis as atypical lipomatous tumor. Head Neck Pathol. 2019;13(2):169-76. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s12105-018-0928-0">http://dx.doi.org/10.1007/s12105-018-0928-0</ext-link>. PMid:29748845.</mixed-citation>
+      </ref>
+      <ref id="B007">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Michal</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Agaimy</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Contreras</surname>
+              <given-names>AL</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Dysplastic Lipoma: A distinctive atypical lipomatous neoplasm with anisocytosis, focal nuclear atypia, p53 overexpression, and a lack of MDM2 gene amplification by FISH; a report of 66 Cases demonstrating occasional multifocality and a rare association with retinoblastoma</article-title>
+          <source>Am J Surg Pathol</source>
+          <year>2018</year>
+          <volume>42</volume>
+          <issue>11</issue>
+          <fpage>1530</fpage>
+          <lpage>1540</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/PAS.0000000000001129">http://dx.doi.org/10.1097/PAS.0000000000001129</ext-link>
+          <pub-id pub-id-type="pmid">30001242.</pub-id>
+        </element-citation>
+        <mixed-citation>7 Michal M, Agaimy A, Contreras AL, et al. Dysplastic Lipoma: A distinctive atypical lipomatous neoplasm with anisocytosis, focal nuclear atypia, p53 overexpression, and a lack of MDM2 gene amplification by FISH; a report of 66 Cases demonstrating occasional multifocality and a rare association with retinoblastoma. Am J Surg Pathol. 2018;42(11):1530-40. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/PAS.0000000000001129">http://dx.doi.org/10.1097/PAS.0000000000001129</ext-link>. PMid:30001242.</mixed-citation>
+      </ref>
+      <ref id="B008">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piperi</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tosios</surname>
+              <given-names>KI</given-names>
+            </name>
+            <name>
+              <surname>Nikitakis</surname>
+              <given-names>NG</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Well-differentiated liposarcoma/atypical lipomatous tumor of the oral cavity: report of three cases and review of the literature</article-title>
+          <source>Head Neck Pathol</source>
+          <year>2012</year>
+          <volume>6</volume>
+          <issue>3</issue>
+          <fpage>354</fpage>
+          <lpage>363</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s12105-011-0327-2">http://dx.doi.org/10.1007/s12105-011-0327-2</ext-link>
+          <pub-id pub-id-type="pmid">22234501.</pub-id>
+        </element-citation>
+        <mixed-citation>8 Piperi E, Tosios KI, Nikitakis NG, et al. Well-differentiated liposarcoma/atypical lipomatous tumor of the oral cavity: report of three cases and review of the literature. Head Neck Pathol. 2012;6(3):354-63. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s12105-011-0327-2">http://dx.doi.org/10.1007/s12105-011-0327-2</ext-link>. PMid:22234501.</mixed-citation>
+      </ref>
+      <ref id="B009">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nili</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Baghai</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Aghai</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Etebarian</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Well-differentiated liposarcoma of the floor of the mouth: report of a rare case and review of the literature</article-title>
+          <source>J Oral Maxillofac Pathol</source>
+          <year>2016</year>
+          <volume>20</volume>
+          <issue>2</issue>
+          <fpage>312</fpage>
+          <lpage>315</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4103/0973-029X.185984">http://dx.doi.org/10.4103/0973-029X.185984</ext-link>
+          <pub-id pub-id-type="pmid">27601829.</pub-id>
+        </element-citation>
+        <mixed-citation>9 Nili F, Baghai F, Aghai A, Etebarian A. Well-differentiated liposarcoma of the floor of the mouth: report of a rare case and review of the literature. J Oral Maxillofac Pathol. 2016;20(2):312-5. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4103/0973-029X.185984">http://dx.doi.org/10.4103/0973-029X.185984</ext-link>. PMid:27601829.</mixed-citation>
+      </ref>
+      <ref id="B010">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohta</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Yoshimura</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Imamura</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Sano</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Oral liposarcoma in elderly: case report and literature analysis</article-title>
+          <source>Medicine</source>
+          <year>2020</year>
+          <volume>99</volume>
+          <issue>6</issue>
+          <elocation-id>e18985</elocation-id>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/MD.0000000000018985">http://dx.doi.org/10.1097/MD.0000000000018985</ext-link>
+          <pub-id pub-id-type="pmid">32028409.</pub-id>
+        </element-citation>
+        <mixed-citation>10 Ohta K, Yoshimura H, Matsuda S, Imamura Y, Sano K. Oral liposarcoma in elderly: case report and literature analysis. Medicine. 2020;99(6):e18985. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/MD.0000000000018985">http://dx.doi.org/10.1097/MD.0000000000018985</ext-link>. PMid:32028409.</mixed-citation>
+      </ref>
+      <ref id="B011">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nikitakis</surname>
+              <given-names>NG</given-names>
+            </name>
+            <name>
+              <surname>Lopes</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Pazoki</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Ord</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Sauk</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>MDM2+/CDK4+/p53+ oral liposarcoma: case report and review of the literature</article-title>
+          <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+          <year>2001</year>
+          <volume>92</volume>
+          <issue>2</issue>
+          <fpage>194</fpage>
+          <lpage>201</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1067/moe.2001.116815">http://dx.doi.org/10.1067/moe.2001.116815</ext-link>
+          <pub-id pub-id-type="pmid">11505267.</pub-id>
+        </element-citation>
+        <mixed-citation>11 Nikitakis NG, Lopes MA, Pazoki AE, Ord RA, Sauk JJ. MDM2+/CDK4+/p53+ oral liposarcoma: case report and review of the literature. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2001;92(2):194-201. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1067/moe.2001.116815">http://dx.doi.org/10.1067/moe.2001.116815</ext-link>. PMid:11505267.</mixed-citation>
+      </ref>
+      <ref id="B012">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laco</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Mentzel</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hornychova</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kohout</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jirousek</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Ryska</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Atypical lipomatous tumors of the tongue: report of six cases</article-title>
+          <source>Virchows Arch</source>
+          <year>2009</year>
+          <volume>455</volume>
+          <issue>4</issue>
+          <fpage>383</fpage>
+          <lpage>388</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00428-009-0835-6">http://dx.doi.org/10.1007/s00428-009-0835-6</ext-link>
+          <pub-id pub-id-type="pmid">19816710.</pub-id>
+        </element-citation>
+        <mixed-citation>12 Laco J, Mentzel T, Hornychova H, Kohout A, Jirousek Z, Ryska A. Atypical lipomatous tumors of the tongue: report of six cases. Virchows Arch. 2009;455(4):383-8. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00428-009-0835-6">http://dx.doi.org/10.1007/s00428-009-0835-6</ext-link>. PMid:19816710.</mixed-citation>
+      </ref>
+      <ref id="B013">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clay</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Martinez</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>Weiss</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Edgar</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>MDM2 and CDK4 immunohistochemistry: should it be used in problematic differentiated lipomatous tumors? A new perspective</article-title>
+          <source>Am J Surg Pathol</source>
+          <year>2016</year>
+          <volume>40</volume>
+          <issue>12</issue>
+          <fpage>1647</fpage>
+          <lpage>1652</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/PAS.0000000000000713">http://dx.doi.org/10.1097/PAS.0000000000000713</ext-link>
+          <pub-id pub-id-type="pmid">27508976.</pub-id>
+        </element-citation>
+        <mixed-citation>13 Clay MR, Martinez AP, Weiss SW, Edgar MA. MDM2 and CDK4 immunohistochemistry: should it be used in problematic differentiated lipomatous tumors? A new perspective. Am J Surg Pathol. 2016;40(12):1647-52. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/PAS.0000000000000713">http://dx.doi.org/10.1097/PAS.0000000000000713</ext-link>. PMid:27508976.</mixed-citation>
+      </ref>
+      <ref id="B014">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kammerer-Jacquet</surname>
+              <given-names>SF</given-names>
+            </name>
+            <name>
+              <surname>Thierry</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cabillic</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title>Differential diagnosis of atypical lipomatous tumor/well-differentiated liposarcoma and dedifferentiated liposarcoma: utility of p16 in combination with MDM2 and CDK4 immunohistochemistry</article-title>
+          <source>Hum Pathol</source>
+          <year>2017</year>
+          <volume>59</volume>
+          <fpage>34</fpage>
+          <lpage>40</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.humpath.2016.08.009">http://dx.doi.org/10.1016/j.humpath.2016.08.009</ext-link>
+          <pub-id pub-id-type="pmid">27597521.</pub-id>
+        </element-citation>
+        <mixed-citation>14 Kammerer-Jacquet SF, Thierry S, Cabillic F, et al. Differential diagnosis of atypical lipomatous tumor/well-differentiated liposarcoma and dedifferentiated liposarcoma: utility of p16 in combination with MDM2 and CDK4 immunohistochemistry. Hum Pathol. 2017;59:34-40. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.humpath.2016.08.009">http://dx.doi.org/10.1016/j.humpath.2016.08.009</ext-link>. PMid:27597521.</mixed-citation>
+      </ref>
+      <ref id="B015">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Evans</surname>
+              <given-names>HL</given-names>
+            </name>
+          </person-group>
+          <article-title>Anisometric cell lipoma: a predominantly subcutaneous fatty tumor with notable variation in fat cell size but not more than slight nuclear enlargement and atypia</article-title>
+          <source>AJSP Rev Rep.</source>
+          <year>2016</year>
+          <volume>21</volume>
+          <issue>4</issue>
+          <fpage>195</fpage>
+          <lpage>199</lpage>
+        </element-citation>
+        <mixed-citation>15 Evans HL. Anisometric cell lipoma: a predominantly subcutaneous fatty tumor with notable variation in fat cell size but not more than slight nuclear enlargement and atypia. AJSP Rev Rep. 2016;21(4):195-9.</mixed-citation>
+      </ref>
+      <ref id="B016">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mayo Yáñez</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>González Poggioli</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Álvarez-Buylla Blanco</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Herranz González-Botas</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Benign symmetric lipomatosis with lingual involvement: case report and literature review</article-title>
+          <source>J Stomatol Oral Maxillofac Surg</source>
+          <year>2018</year>
+          <volume>119</volume>
+          <issue>2</issue>
+          <fpage>148</fpage>
+          <lpage>150</lpage>
+          <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.jormas.2017.11.006">http://dx.doi.org/10.1016/j.jormas.2017.11.006</ext-link>
+          <pub-id pub-id-type="pmid">29129710.</pub-id>
+        </element-citation>
+        <mixed-citation>16 Mayo Yáñez M, González Poggioli N, Álvarez-Buylla Blanco M, Herranz González-Botas J. Benign symmetric lipomatosis with lingual involvement: case report and literature review. J Stomatol Oral Maxillofac Surg. 2018;119(2):148-50. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.jormas.2017.11.006">http://dx.doi.org/10.1016/j.jormas.2017.11.006</ext-link>. PMid:29129710.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block 'content' %}
+    <h1>Lista as Figuras</h1>
+    <div class="jumbotron">
+    {% for figura in figuras %}
+        <div class="row">
+            <div class="col-sm-6">
+                <figure class="figure">
+                  <img src="{{ figura.imagem }}" class="figure-img img-fluid rounded" alt="..." width="600" height="400">
+                </figure>
+            </div>
+            <div class="col-sm-6">
+                <p class="text-primary">{{ figura }}</p>
+                <p>{{ figura.legenda }}</p>
+            </div>
+        </div>
+        <hr>
+    {% endfor %}
+    </div>
+{% endblock 'content' %}
