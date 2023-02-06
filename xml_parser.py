@@ -73,7 +73,7 @@ def get_artigos_from_xml(tree):
 
 
 def main():
-    for file_name in Path().glob('**/*.xml'):
+    for file_name in Path().glob('**/sc*.xml'):
         print(f'{"+" * 50}  {file_name}  {"+" * 50}')
         with open(file_name, encoding='utf-8') as fp:
             tree = ET.parse(fp)

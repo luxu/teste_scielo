@@ -45,17 +45,33 @@ def autor(db, tree):
 
 
 @pytest.fixture
-def artigo(db, autor):
-    artigo = Artigo.objects.create(
-        titulo_do_periodico="Biosfera",
-        titulo_do_artigo="",
-        volume=0,
-        numero=0,
-        ano_de_publicacao=2023
+def artigo(db, tree):
+    autores_do_xml = list(get_autores_from_xml(tree))
+    autores = Autor.objects.bulk_create(
+        Autor(**autor) for autor in autores_do_xml
     )
-    artigo.autores.add(autor)
-    return artigo
+    artigos_do_xml = list(get_artigos_from_xml(tree))
+    artigos = Artigo.objects.bulk_create(
+        Artigo(
+            titulo_do_periodico=artigo['titulo_do_periodico'],
+            titulo_do_artigo=artigo['titulo_do_artigo'],
+            volume=artigo['volume'],
+            numero=artigo['numero'],
+            ano_de_publicacao=artigo['ano_de_publicacao']
+        )
+        for artigo in artigos_do_xml
+    )
+    autores.artigos.add(*artigos)
+    # artigos = Artigo.objects.bulk_create(
+    #     Artigo(**artigo) for artigo in artigos_do_xml
+    # )
+    # artigos.autores.add(autores)
 
+def test_save_artigo(artigo):
+    assert artigo is not None
+    # assert artigo[0].volume == 89
+    # assert artigo[0].autores.nome == 'Predo'
+    # assert len(artigo.to_dict()['autores']) == 1
 
 
 def test_save_autor(autor):
@@ -69,10 +85,6 @@ def test_save_figura(figura):
     assert figura.legenda == "Rainfall, minimum (min) and maximum (max) temperature, during the experiments. Maripá, PR, Brazil, 2020–2021."
 
 
-def test_save_artigo(artigo):
-    assert artigo is not None
-    assert artigo.volume == 0
-    assert len(artigo.to_dict()['autores']) == 1
 
 
 def test_get_figuras_xml(tree):

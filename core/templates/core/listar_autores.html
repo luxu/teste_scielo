@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block 'content' %}
+    <h1>Lista os Autores</h1>
+    <div class="jumbotron">
+    {% for autor in autores %}
+        <div class="row">
+            <div class="col-sm-6"></div>
+            <div class="col-sm-6">
+                <p class="text-primary">{{ autor }}</p>
+            </div>
+        </div>
+        <hr>
+    {% endfor %}
+    </div>
+{% endblock 'content' %}

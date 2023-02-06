@@ -1,0 +1,8 @@
+{% load static %}
+{% extends 'base.html' %}
+{% block 'content' %}
+    <div class="jumbotron">
+        <h1>Autores exportados com sucesso!</h1>
+        <a class="btn btn-success" href="{{ url 'listar_autores' }}">Listar autores</a>
+    </div>
+{% endblock 'content' %}

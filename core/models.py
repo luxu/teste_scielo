@@ -51,5 +51,8 @@ class Autor(models.Model):
         max_length=50
     )
 
+    def __repr__(self):
+        return self.nome
+
     def __str__(self):
         return self.nome

@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block 'content' %}
+    <h1>Lista os Artigos</h1>
+    <div class="jumbotron">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Titulo do Periódico</th>
+                    <th>Titulo do Artigo</th>
+                    <th>Volume</th>
+                    <th>Número</th>
+                    <th>Ano da publicação</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for artigo in artigos %}
+                <tr>
+                    <td>{{ artigo.titulo_do_periodico }}</td>
+                    <td>{{ artigo.titulo_do_artigo }}</td>
+                    <td>{{ artigo.volume }}</td>
+                    <td>{{ artigo.numero }}</td>
+                    <td>{{ artigo.ano_de_publicacao }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock 'content' %}

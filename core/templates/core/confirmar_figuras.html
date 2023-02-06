@@ -1,0 +1,8 @@
+{% load static %}
+{% extends 'base.html' %}
+{% block 'content' %}
+    <div class="jumbotron">
+        <h1>Figuras exportadas com sucesso!</h1>
+        <a class="btn btn-success" href="{% url 'listar_figuras' %}">Listar figuras</a>
+    </div>
+{% endblock 'content' %}
