@@ -1,47 +1,44 @@
-# Project Template by Luxu
+# Sistema de leitura de arquivos XML
 
-## Como rodar o template?
-* Crie um virtualenv com Python.
-```
-- Windows
-python -m venv .venv
---------------------
-- Linux
-python3 -m venv .venv
-```
-* Ative o virtualenv.
-```
-Windows
-.venv/Scripts/activate
---------------------
-Linux
-source .venv/bin/activate
-```
-* Instale o django
-```
-python.exe -m pip install --upgrade pip
-pip install django
+### Postman/Insomnia
+Sempre testo os endpoints usando Postam ou Insomnia
 
-django-admin startproject --template https://github.com/luxu/template_default_django/archive/master.zip my_site
-cd my_site
-```
-* Instale as dependências.
-``
-pip install -r requirements.txt
-``
-* Criar o *.env*
-``python contrib/env_gen.py``
-* Fazer as alterações necessárias
-* Rode as migrações.
-```
-python manage.py migrate
-python manage.py createsuperuser --username="admin" --email=""
-python manage.py runserver
-```
+Para carregar e salvar na base os XML´s:
 
-Para o test com Pytest
-* Instale as dependências.
-``
-pip install -r requirements-dev.txt
-``
-Na pasta **core** tem uma pasta **tests** onde devem ficar os tests
+via terminal:
+
+``curl --request POST 'http://localhost:8000/api/v1/xml/?file_xml=scielo_teste_xml_3.xml' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'usuario=<usuario>' \
+--data-urlencode 'senha=<senha>'``
+
+````import requests
+from rich import print
+url = "http://localhost:8000/api/v1/xml/?file_xml=scielo_teste_xml_3.xml"
+payload='usuario=luxu&senha=2'
+headers = { 'Content-Type': 'application/x-www-form-urlencoded'}
+response = requests.post(url, headers=headers, data=payload)
+print(response.json())
+````
+Para listar os artigos:
+
+via terminal:
+
+``curl --request GET 'http://localhost:8000/api/v1/artigos/``
+
+````from rich import print
+import requests
+url = "http://localhost:8000/api/v1/artigos/"
+response = requests.get(url)
+print(response.json())
+````
+
+Foi pensado da seguinte forma o endpoint acima:
+- Será passado como argumento o nome do XML de onde será extraído os dados, se exister o mesmo no diretório será feito
+a extração, caso contrário, retornará um erro e as opções existentes no diretório atual, ou seja, optando por outro arquivo
+o mesmo deverá ser colocado na pasta ``core/files_xml/``
+
+
+
+
+

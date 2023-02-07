@@ -27,7 +27,7 @@ class Artigo(models.Model):
             'volume': self.volume,
             'numero': self.numero,
             'ano_de_publicacao': self.ano_de_publicacao,
-            'autores': list(self.autores.values_list('id', flat=True))
+            'autores': list(self.autores.values_list('nome', flat=True))
         }
 
 
@@ -50,9 +50,6 @@ class Autor(models.Model):
     nome = models.CharField(
         max_length=50
     )
-
-    def __repr__(self):
-        return self.nome
 
     def __str__(self):
         return self.nome

@@ -1,5 +1,5 @@
-from pathlib import Path
 import xml.etree.ElementTree as ET
+from pathlib import Path
 
 import pytest
 
@@ -61,17 +61,14 @@ def artigo(db, tree):
         )
         for artigo in artigos_do_xml
     )
-    autores.artigos.add(*artigos)
-    # artigos = Artigo.objects.bulk_create(
-    #     Artigo(**artigo) for artigo in artigos_do_xml
-    # )
-    # artigos.autores.add(autores)
+    for autor in autores:
+        autor.artigos.add(*artigos)
+    return Artigo.objects.filter(id=1)
+
 
 def test_save_artigo(artigo):
-    assert artigo is not None
-    # assert artigo[0].volume == 89
-    # assert artigo[0].autores.nome == 'Predo'
-    # assert len(artigo.to_dict()['autores']) == 1
+    assert str(artigo[0].autores.all()[0]) == 'Leandro Paiola Albrecht'
+    assert len(artigo[0].autores.all()) == 7
 
 
 def test_save_autor(autor):
@@ -80,11 +77,11 @@ def test_save_autor(autor):
 
 def test_save_figura(figura):
     assert figura.imagem == \
-           "https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/ef0ac2c14618600e94bb76c8d2cf8155e3e270b8.tif"
+           "https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF" \
+           "/ef0ac2c14618600e94bb76c8d2cf8155e3e270b8.tif"
     assert figura.rotulo == "Figure 1"
-    assert figura.legenda == "Rainfall, minimum (min) and maximum (max) temperature, during the experiments. Maripá, PR, Brazil, 2020–2021."
-
-
+    assert figura.legenda == "Rainfall, minimum (min) and maximum (max) temperature, during the experiments. Maripá, " \
+                             "PR, Brazil, 2020–2021."
 
 
 def test_get_figuras_xml(tree):
@@ -92,8 +89,8 @@ def test_get_figuras_xml(tree):
     assert figuras[0]['id'] == 'f01'
     assert figuras[0]['imagem'] == \
            'https://minio.scielo.br/documentstore/1808-1657/NxWBM9hvfj4hgWbvB6GP8nF/ef0ac2c14618600e94bb76c8d2cf8155e3e270b8.tif'
-    assert figuras[0]['legenda'] =='Rainfall, minimum (min) and maximum (max) temperature, during the ' \
-                                   'experiments. Maripá, PR, Brazil, 2020–2021.'
+    assert figuras[0]['legenda'] == 'Rainfall, minimum (min) and maximum (max) temperature, during the ' \
+                                    'experiments. Maripá, PR, Brazil, 2020–2021.'
     assert figuras[0]['rotulo'] == 'Figure 1'
 
 
@@ -106,6 +103,7 @@ def test_get_autores_xml(tree):
     assert autores[4] == 'Debora Cristine Neuberger'
     assert autores[5] == 'Gabriel Zanfrilli'
     assert autores[6] == 'Vagner Maurício da Silva Antunes'
+
 
 def test_get_artigos_xml(tree):
     autores = [autor['nome'] for autor in get_autores_from_xml(tree)]
